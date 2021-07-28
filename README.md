@@ -27,8 +27,8 @@ to communicate to one endpoint.
 ## Table of contents
 
 1. [Errors](Errors/README.md)
-  * [Validation Errors](ValidationErrors.md) 8448 - 8703
-  * [Authentication Errors](AuthenticationErrors.md) 8704 - 8979
-  * [Media Errors](MediaErrors.md) 8960 - 12543
-  * [Network Errors](NetworkErrors.md) 12544 - 16383
-  * [Server Errors](ServerErrors.md) 16384 - *(?)
+  * [Validation Errors](Errors/ValidationErrors.md) 8448 - 8703
+  * [Authentication Errors](Errors/AuthenticationErrors.md) 8704 - 8979
+  * [Media Errors](Errors/MediaErrors.md) 8960 - 12543
+  * [Network Errors](Errors/NetworkErrors.md) 12544 - 16383
+  * [Server Errors](Errors/ServerErrors.md) 16384 - *(?)
