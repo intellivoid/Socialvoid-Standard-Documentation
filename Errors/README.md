@@ -50,6 +50,12 @@ either identify errors indivdually by their error code or by range.
 | Authentication Errors | 22  | 8704 - 8979   | Errors related to authentication/session management, these errors are usually returned when there was an error while trying to authenticate or there are session errors such as the session being expired. |
 | Media Errors          | 23  | 8960 - 12543  | Errors related to the media on the network, errors are usually returned if your client uploads bad media files or for some reason there is an error related to the media content on the network.           |
 | Network Errors        | 31  | 12544 - 16383 | Errors related to actions on the network, peers not being found, posts not being found, incorrect permissions, rate limits, etc.                                                                           |
-| Server Error          | 40  | 16384 - *(?)  | Errors related to the server, unexpected errors, servers related to administrators/moderators performing administrative tasks on the server                                                                |
+| Server Errors         | 40  | 16384 - *(?)  | Errors related to the server, unexpected errors, servers related to administrators/moderators performing administrative tasks on the server                                                                |
 
-## 
+## Error Codes
+
+ - [Validation Errors](ValidationErrors.md) 8448 - 8703
+ - [Authentication Errors](AuthenticationErrors.md) 8704 - 8979
+ - [Media Errors](MediaErrors.md) 8960 - 12543
+ - [Network Errors](NetworkErrors.md) 12544 - 16383
+ - [Server Errors](ServerErrors.md) 16384 - *(?)
