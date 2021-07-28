@@ -6,7 +6,7 @@ that is invalid in some way or another.
 | Name                         | Code | Hex Code | Deprecated | Versions | Description                                                                                                 |
 |------------------------------|------|----------|------------|----------|-------------------------------------------------------------------------------------------------------------|
 | InvalidUsername              | 8448 | 0x02100  | No         | 1.0      | The given username is invalid and does not meet the specification                                           |
-| InvalidPassword              | 8449 | 0x02101  | No         | 1.0      | The given password is invalid & unsecured and does not meed the specification                               |
+| InvalidPassword              | 8449 | 0x02101  | No         | 1.0      | The given password is invalid and/or insecure and does not meet the specification                           |
 | InvalidFirstName             | 8450 | 0x02102  | No         | 1.0      | The First Name provided contains invalid characters and or is too long, see the message for further details |
 | InvalidLastName              | 8451 | 0x02103  | No         | 1.0      | The Last Name provided contains invalid characters and or is too long, see the message for further details  |
 | InvalidBiography             | 8452 | 0x02104  | No         | 1.0      | The Biography is too long or contains invalid characters, see the message for further details               |
