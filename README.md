@@ -32,3 +32,7 @@ to communicate to one endpoint.
   * [Media Errors](Errors/MediaErrors.md) 8960 - 12543
   * [Network Errors](Errors/NetworkErrors.md) 12544 - 16383
   * [Server Errors](Errors/ServerErrors.md) 16384 - *(?)
+
+2. [Specifications](Specifications/README.md)
+  * [ClientHashSpecification](Specifications/ClientHashSpecification.md)
+  * [SessionChallengeSpecification](Specifications/SessionChallengeSpecification.md)
