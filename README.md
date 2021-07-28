@@ -35,4 +35,5 @@ to communicate to one endpoint.
 
 2. [Specifications](Specifications/README.md)
   * [ClientHashSpecification](Specifications/ClientHashSpecification.md)
+  * [PasswordSpecification](Specifications/PasswordSpecification.md)
   * [SessionChallengeSpecification](Specifications/SessionChallengeSpecification.md)

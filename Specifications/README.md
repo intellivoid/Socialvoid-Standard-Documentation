@@ -9,4 +9,5 @@ be implemented in a client.
 ## Contents
 
  - [ClientHashSpecification](ClientHashSpecification.md)
+ - [PasswordSpecification](PasswordSpecification.md)
  - [SessionChallengeSpecification](SessionChallengeSpecification.md)
