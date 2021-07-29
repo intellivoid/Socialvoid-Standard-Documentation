@@ -32,7 +32,7 @@ These are usually represented in integers.
 
 ### Message
 A message explains more details about the error, while the same error
-can occure for Situation A and B; Situation B may have a different reason
+can occur for Situation A and B; Situation B may have a different reason
 for the same error. This should not be used as a way to identify the error
 and usually serves the purpose of troubleshooting or displaying the error
 to the user.
