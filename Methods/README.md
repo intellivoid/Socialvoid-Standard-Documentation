@@ -11,3 +11,4 @@ Incomplete
 ## Available Methods
 
 1. [Session/Authentication Management](session/README.md)
+   * [CreateSession](session/CreateSession.md) (`session.create`)
