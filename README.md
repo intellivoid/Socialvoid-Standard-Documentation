@@ -27,23 +27,23 @@ to communicate to one endpoint.
 ## Table of contents
 
 1. [Errors](Errors/README.md)
-  * [Validation Errors](Errors/ValidationErrors.md) 8448 - 8703
-  * [Authentication Errors](Errors/AuthenticationErrors.md) 8704 - 8979
-  * [Media Errors](Errors/MediaErrors.md) 8960 - 12543
-  * [Network Errors](Errors/NetworkErrors.md) 12544 - 16383
-  * [Server Errors](Errors/ServerErrors.md) 16384 - *(?)
+   * [Validation Errors](Errors/ValidationErrors.md) 8448 - 8703
+   * [Authentication Errors](Errors/AuthenticationErrors.md) 8704 - 8979
+   * [Media Errors](Errors/MediaErrors.md) 8960 - 12543
+   * [Network Errors](Errors/NetworkErrors.md) 12544 - 16383
+   * [Server Errors](Errors/ServerErrors.md) 16384 - *(?)
 
 2. [Methods](Methods/README.md)
-  * [CreateSession](Methods/session/CreateSession.md) (`session.create`)
+   * [CreateSession](Methods/session/CreateSession.md) (`session.create`)
 
 3. [Objects](Objects/README.md)
-  * [SessionIdentification](Objects/SessionIdentification.md)
+   * [SessionIdentification](Objects/SessionIdentification.md)
 
 4. [Specifications](Specifications/README.md)
-  * [ClientHashSpecification](Specifications/ClientHashSpecification.md)
-  * [ClientNameSpecification](Specifications/ClientNameSpecification.md)
-  * [ClientVersionSpecification](Specifications/ClientVersionSpecification.md)
-  * [PasswordSpecification](Specifications/PasswordSpecification.md)
-  * [PlatformSpecification](Specifications/PlatformSpecification.md)
-  * [SessionChallengeSpecification](Specifications/SessionChallengeSpecification.md)
-  * [SessionIdSpecification](Specifications/SessionIdSpecification.md)
+   * [ClientHashSpecification](Specifications/ClientHashSpecification.md)
+   * [ClientNameSpecification](Specifications/ClientNameSpecification.md)
+   * [ClientVersionSpecification](Specifications/ClientVersionSpecification.md)
+   * [PasswordSpecification](Specifications/PasswordSpecification.md)
+   * [PlatformSpecification](Specifications/PlatformSpecification.md)
+   * [SessionChallengeSpecification](Specifications/SessionChallengeSpecification.md)
+   * [SessionIdSpecification](Specifications/SessionIdSpecification.md)
