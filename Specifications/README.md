@@ -11,3 +11,4 @@ be implemented in a client.
  - [ClientHashSpecification](ClientHashSpecification.md)
  - [PasswordSpecification](PasswordSpecification.md)
  - [SessionChallengeSpecification](SessionChallengeSpecification.md)
+ - [SessionIdSpecification](SessionIdSpecification.md)

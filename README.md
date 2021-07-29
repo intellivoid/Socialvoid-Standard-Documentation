@@ -33,7 +33,11 @@ to communicate to one endpoint.
   * [Network Errors](Errors/NetworkErrors.md) 12544 - 16383
   * [Server Errors](Errors/ServerErrors.md) 16384 - *(?)
 
-2. [Specifications](Specifications/README.md)
+2. [Objects](Objects/README.md)
+  * [SessionIdentification](Objects/SessionIdentification.md)
+
+3. [Specifications](Specifications/README.md)
   * [ClientHashSpecification](Specifications/ClientHashSpecification.md)
   * [PasswordSpecification](Specifications/PasswordSpecification.md)
   * [SessionChallengeSpecification](Specifications/SessionChallengeSpecification.md)
+  * [SessionIdSpecification](Specifications/SessionIdSpecification.md)
