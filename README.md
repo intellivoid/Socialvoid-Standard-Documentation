@@ -33,11 +33,17 @@ to communicate to one endpoint.
   * [Network Errors](Errors/NetworkErrors.md) 12544 - 16383
   * [Server Errors](Errors/ServerErrors.md) 16384 - *(?)
 
-2. [Objects](Objects/README.md)
+2. [Methods](Methods/README.md)
+  * [CreateSession](Methods/session/CreateSession.md) (`session.create`)
+
+3. [Objects](Objects/README.md)
   * [SessionIdentification](Objects/SessionIdentification.md)
 
-3. [Specifications](Specifications/README.md)
+4. [Specifications](Specifications/README.md)
   * [ClientHashSpecification](Specifications/ClientHashSpecification.md)
+  * [ClientNameSpecification](Specifications/ClientNameSpecification.md)
+  * [ClientVersionSpecification](Specifications/ClientVersionSpecification.md)
   * [PasswordSpecification](Specifications/PasswordSpecification.md)
+  * [PlatformSpecification](Specifications/PlatformSpecification.md)
   * [SessionChallengeSpecification](Specifications/SessionChallengeSpecification.md)
   * [SessionIdSpecification](Specifications/SessionIdSpecification.md)
