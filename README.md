@@ -35,6 +35,7 @@ to communicate to one endpoint.
 
 2. [Methods](Methods/README.md)
    * [CreateSession](Methods/session/CreateSession.md) (`session.create`)
+   * [AuthenticateUser](Methods/session/AuthenticateUser.md) (`session.authenticate_user`)
 
 3. [Objects](Objects/README.md)
    * [SessionIdentification](Objects/SessionIdentification.md)
