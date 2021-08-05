@@ -6,4 +6,5 @@ Allowing for simplicity in mind when writing clients for Socialvoid
 
 ## Contents
 
+ - [Session](Session.md)
  - [SessionIdentification](SessionIdentification.md)
