@@ -12,4 +12,5 @@ Incomplete
 
 1. [Session/Authentication Management](session/README.md)
    * [CreateSession](session/CreateSession.md) (`session.create`)
+   * [GetSession](session/GetSession.md) (`session.get`)
    * [AuthenticateUser](session/AuthenticateUser.md) (`session.authenticate_user`)

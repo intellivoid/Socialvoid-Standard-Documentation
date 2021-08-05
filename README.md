@@ -34,8 +34,10 @@ to communicate to one endpoint.
    * [Server Errors](Errors/ServerErrors.md) 16384 - *(?)
 
 2. [Methods](Methods/README.md)
-   * [CreateSession](Methods/session/CreateSession.md) (`session.create`)
-   * [AuthenticateUser](Methods/session/AuthenticateUser.md) (`session.authenticate_user`)
+   * [Session](Methods/session/README.md)
+      * [CreateSession](Methods/session/CreateSession.md) (`session.create`)
+      * [GetSession](Methods/session/GetSession.md) (`session.get`)
+      * [AuthenticateUser](Methods/session/AuthenticateUser.md) (`session.authenticate_user`)
 
 3. [Objects](Objects/README.md)
    * [Session](Objects/Session.md)
