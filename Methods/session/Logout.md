@@ -33,12 +33,13 @@ A list of potential errors that this method may return, some errors
 may not be listed here, your client should always expect errors from
 any method.
 
-| Error Name               | Error Type                                           |
-|--------------------------|------------------------------------------------------|
-| InternalServerError      | [ServerErrors](../../Errors/ServerErrors.md)         |
-| MissingParameter         | * RPC Protocol                                       |
-| InvalidClientName        | [ValidationErrors](../../Errors/ValidationErrors.md) |
-| InvalidClientPublicHash  | [ValidationErrors](../../Errors/ValidationErrors.md) |
-| InvalidClientPrivateHash | [ValidationErrors](../../Errors/ValidationErrors.md) |
-| InvalidPlatform          | [ValidationErrors](../../Errors/ValidationErrors.md) |
-| InvalidVersion           | [ValidationErrors](../../Errors/ValidationErrors.md) |
+| Error Name                   | Error Type                                                   |
+|------------------------------|--------------------------------------------------------------|
+| InternalServerError          | [ServerErrors](../../Errors/ServerErrors.md)                 |
+| MissingParameter             | * RPC Protocol                                               |
+| InvalidSessionIdentification | [ValidationErrors](../../Errors/ValidationErrors.md)         |
+| BadSessionChallengeAnswer    | [AuthenticationErrors](../../Errors/AuthenticationErrors.md) |
+| SessionExpired               | [AuthenticationErrors](../../Errors/AuthenticationErrors.md) |
+| SessionNotFound              | [AuthenticationErrors](../../Errors/AuthenticationErrors.md) |
+| InvalidClientPublicHash      | [AuthenticationErrors](../../Errors/AuthenticationErrors.md) |
+| NotAuthenticated             | [AuthenticationErrors](../../Errors/AuthenticationErrors.md) |
