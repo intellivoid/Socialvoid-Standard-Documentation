@@ -38,6 +38,7 @@ to communicate to one endpoint.
       * [CreateSession](Methods/session/CreateSession.md) (`session.create`)
       * [GetSession](Methods/session/GetSession.md) (`session.get`)
       * [AuthenticateUser](Methods/session/AuthenticateUser.md) (`session.authenticate_user`)
+      * [Logout](Methods/session/Logout.md) (`session.logout`)
 
 3. [Objects](Objects/README.md)
    * [Session](Objects/Session.md)

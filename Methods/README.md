@@ -14,3 +14,4 @@ Incomplete
    * [CreateSession](session/CreateSession.md) (`session.create`)
    * [GetSession](session/GetSession.md) (`session.get`)
    * [AuthenticateUser](session/AuthenticateUser.md) (`session.authenticate_user`)
+   * [Logout](session/Logout.md) (`session.logout`)
