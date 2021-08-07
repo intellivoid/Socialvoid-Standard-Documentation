@@ -36,9 +36,9 @@ A list of parameters that this method accepts
 | otp                    | `string`                                                        | No       | Not Applicable                                                         | No         | 1.0      | The optional one-time password; will be ignored if empty or larger than 64 characters. |
 
 
-## Errors
+## Possible Errors
 
-A list of potential errors that this method may return, some errors
+A list of possible errors that this method may return, some errors
 may not be listed here, your client should always expect errors from
 any method.
 

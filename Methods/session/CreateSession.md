@@ -31,9 +31,9 @@ A list of parameters that this method accepts
 | name           | `string` | Yes      | [ClientNameSpecification](../../Specifications/ClientNameSpecification.md)       | No         | 1.0      | The name of the client                                                  |
 | version        | `string` | Yes      | [ClientVersionSpecification](../../Specifications/ClientVersionSpecification.md) | No         | 1.0      | The version of the client                                               |
 
-## Errors
+## Possible Errors
 
-A list of potential errors that this method may return, some errors
+A list of possible errors that this method may return, some errors
 may not be listed here, your client should always expect errors from
 any method.
 

@@ -27,9 +27,9 @@ A list of parameters that this method accepts
 |------------------------|-----------------------------------------------------------------|----------|----------------|------------|----------|-----------------------------------|
 | session_identification | [SessionIdentification](../../Objects/SessionIdentification.md) | Yes      | Not Applicable | No         | 1.0      | The Session Identification object |
 
-## Errors
+## Possible Errors
 
-A list of potential errors that this method may return, some errors
+A list of possible errors that this method may return, some errors
 may not be listed here, your client should always expect errors from
 any method.
 
