@@ -8,14 +8,13 @@ SessionIdentification parameter
 
 A description of the method and it's properties
 
-| Property              | Value                                                     |
-|-----------------------|-----------------------------------------------------------|
-| Method Name           | CreateSession                                             |
-| Method                | `session.create`                                          |
-| Response Type(s)      | [SessionEstablished](../../Objects/SessionEstablished.md) |
-| Version               | 1.0.0.0                                                   |
-| Available in Versions | 1.0                                                       |
-
+| Property              | Value                               |
+|-----------------------|-------------------------------------|
+| Method Name           | GetSession                          |
+| Method                | `session.get`                       |
+| Response Type(s)      | [Session](../../Objects/Session.md) |
+| Version               | 1.0.0.0                             |
+| Available in Versions | 1.0                                 |
 
 ## Parameters
 
