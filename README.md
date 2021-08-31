@@ -53,3 +53,6 @@ to communicate to one endpoint.
    * [PlatformSpecification](Specifications/PlatformSpecification.md)
    * [SessionChallengeSpecification](Specifications/SessionChallengeSpecification.md)
    * [SessionIdSpecification](Specifications/SessionIdSpecification.md)
+
+5. [Types](Types/README.md)
+   * [FileTypes](Types/FileTypes.md)
