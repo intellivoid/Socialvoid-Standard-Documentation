@@ -41,6 +41,7 @@ to communicate to one endpoint.
       * [Logout](Methods/session/Logout.md) (`session.logout`)
 
 3. [Objects](Objects/README.md)
+   * [Document](Objects/Document.md)
    * [SessionEstablished](Objects/SessionEstablished.md)
    * [Session](Objects/Session.md)
    * [SessionIdentification](Objects/SessionIdentification.md)
