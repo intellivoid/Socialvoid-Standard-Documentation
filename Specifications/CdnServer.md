@@ -14,6 +14,9 @@ Instead a separate server is dedicated to serve two functions, to upload
 content to the network and download content from the network. Limitations
 are configured by the network and can be obtained from the network.
 
+!!! **The CDN Server endpoint is not the same as the RPC Server endpoint,
+your client must be configured to know where the CDN endpoint is** !!!
+
 ## HTTP API
 
 The CDN operates using a simple HTTP RESTful API, it accepts both `POST`
