@@ -47,6 +47,7 @@ to communicate to one endpoint.
    * [SessionIdentification](Objects/SessionIdentification.md)
 
 4. [Specifications](Specifications/README.md)
+   * [CdnServer](Specifications/CdnServer.md)
    * [ClientHashSpecification](Specifications/ClientHashSpecification.md)
    * [ClientNameSpecification](Specifications/ClientNameSpecification.md)
    * [ClientVersionSpecification](Specifications/ClientVersionSpecification.md)

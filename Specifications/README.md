@@ -9,8 +9,10 @@ Not all specifications are required to be followed but some are required,
 contents marked with `*` are considered important.
 
 
+
 ## Contents
 
+ - [CdnServer](CdnServer.md) *
  - [ClientHashSpecification](ClientHashSpecification.md) *
  - [ClientNameSpecification](ClientNameSpecification.md)
  - [ClientVersionSpecification](ClientVersionSpecification.md)
