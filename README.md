@@ -45,6 +45,7 @@ to communicate to one endpoint.
    * [SessionEstablished](Objects/SessionEstablished.md)
    * [Session](Objects/Session.md)
    * [SessionIdentification](Objects/SessionIdentification.md)
+   * [TextEntity](Objects/TextEntity.md)
 
 4. [Specifications](Specifications/README.md)
    * [CdnServer](Specifications/CdnServer.md)
@@ -58,4 +59,4 @@ to communicate to one endpoint.
 
 5. [Types](Types/README.md)
    * [FileTypes](Types/FileTypes.md)
-   * [TextEntityTypes](TextEntityTypes.md)
+   * [TextEntityTypes](Types/TextEntityTypes.md)
