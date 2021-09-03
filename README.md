@@ -42,6 +42,7 @@ to communicate to one endpoint.
 
 3. [Objects](Objects/README.md)
    * [Document](Objects/Document.md)
+   * [HelpDocument](Objects/HelpDocument.md)
    * [SessionEstablished](Objects/SessionEstablished.md)
    * [Session](Objects/Session.md)
    * [SessionIdentification](Objects/SessionIdentification.md)
