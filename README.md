@@ -41,6 +41,7 @@ to communicate to one endpoint.
       * [Logout](Methods/session/Logout.md) (`session.logout`)
    * [Help](Methods/help/README.md)
       * [GetTermsOfService](Methods/help/GetTermsOfService.md) (`help.get_terms_of_service`)
+      * [GetPrivacyPolicy](Methods/help/GetPrivacyPolicy.md) (`help.get_privacy_policy`)
 
 3. [Objects](Objects/README.md)
    * [Document](Objects/Document.md)

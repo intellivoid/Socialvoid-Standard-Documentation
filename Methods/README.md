@@ -17,3 +17,4 @@ Incomplete
    * [Logout](session/Logout.md) (`session.logout`)
 2. [Help](help/README.md)
    * [GetTermsOfService](help/GetTermsOfService.md) (`help.get_terms_of_service`)
+   * [GetPrivacyPolicy](help/GetPrivacyPolicy.md) (`help.get_privacy_policy`)
