@@ -13,5 +13,5 @@ so that the client can apply the supported styling or clickable action
 | STRIKE    | Strike-through text style |
 | UNDERLINE | Underline text style      |
 | URL       | URL entity                |
-| Mention   | Mention entity            |
-| Hashtag   | Hashtag entity            |
+| MENTION   | Mention entity            |
+| HASHTAG   | Hashtag entity            |
