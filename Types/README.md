@@ -9,3 +9,4 @@ functions.
 ## Contents
 
  - [FileTypes](FileTypes.md)
+ - [TextEntityTypes](TextEntityTypes.md)
