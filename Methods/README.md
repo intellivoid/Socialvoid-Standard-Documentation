@@ -10,8 +10,10 @@ Incomplete
 
 ## Available Methods
 
-1. [Session/Authentication Management](session/README.md)
+1. [Session](session/README.md)
    * [CreateSession](session/CreateSession.md) (`session.create`)
    * [GetSession](session/GetSession.md) (`session.get`)
    * [AuthenticateUser](session/AuthenticateUser.md) (`session.authenticate_user`)
    * [Logout](session/Logout.md) (`session.logout`)
+2. [Help](help/README.md)
+   * [GetTermsOfService](help/GetTermsOfService.md) (`help.get_terms_of_service`)
