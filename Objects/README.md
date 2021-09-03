@@ -10,3 +10,4 @@ Allowing for simplicity in mind when writing clients for Socialvoid
  - [SessionEstablished](SessionEstablished.md)
  - [Session](Session.md)
  - [SessionIdentification](SessionIdentification.md)
+ - [TextEntity](TextEntity.md)
