@@ -16,5 +16,6 @@ Incomplete
    * [AuthenticateUser](session/AuthenticateUser.md) (`session.authenticate_user`)
    * [Logout](session/Logout.md) (`session.logout`)
 2. [Help](help/README.md)
-   * [GetTermsOfService](help/GetTermsOfService.md) (`help.get_terms_of_service`)
+   * [GetCommunityGuidelines](help/GetCommunityGuidelines.md) (`help.get_community_guidelines`)
    * [GetPrivacyPolicy](help/GetPrivacyPolicy.md) (`help.get_privacy_policy`)
+   * [GetTermsOfService](help/GetTermsOfService.md) (`help.get_terms_of_service`)

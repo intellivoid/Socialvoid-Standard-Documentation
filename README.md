@@ -40,8 +40,9 @@ to communicate to one endpoint.
       * [AuthenticateUser](Methods/session/AuthenticateUser.md) (`session.authenticate_user`)
       * [Logout](Methods/session/Logout.md) (`session.logout`)
    * [Help](Methods/help/README.md)
-      * [GetTermsOfService](Methods/help/GetTermsOfService.md) (`help.get_terms_of_service`)
+      * [GetCommunityGuidelines](Methods/help/GetCommunityGuidelines.md) (`help.get_community_guidelines`)
       * [GetPrivacyPolicy](Methods/help/GetPrivacyPolicy.md) (`help.get_privacy_policy`)
+      * [GetTermsOfService](Methods/help/GetTermsOfService.md) (`help.get_terms_of_service`)
 
 3. [Objects](Objects/README.md)
    * [Document](Objects/Document.md)
