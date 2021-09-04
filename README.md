@@ -39,6 +39,7 @@ to communicate to one endpoint.
       * [GetSession](Methods/session/GetSession.md) (`session.get`)
       * [AuthenticateUser](Methods/session/AuthenticateUser.md) (`session.authenticate_user`)
       * [Logout](Methods/session/Logout.md) (`session.logout`)
+      * [Register](Methods/session/Register.md) (`session.register`)
    * [Help](Methods/help/README.md)
       * [GetCommunityGuidelines](Methods/help/GetCommunityGuidelines.md) (`help.get_community_guidelines`)
       * [GetPrivacyPolicy](Methods/help/GetPrivacyPolicy.md) (`help.get_privacy_policy`)
