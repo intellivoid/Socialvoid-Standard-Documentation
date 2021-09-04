@@ -6,6 +6,7 @@ Allowing for simplicity in mind when writing clients for Socialvoid
 
 ## Contents
 
+ - [DisplayPIctureSize](DisplayPictureSize.md)
  - [Document](Document.md)
  - [HelpDocument](HelpDocument.md)
  - [SessionEstablished](SessionEstablished.md)

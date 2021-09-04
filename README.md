@@ -45,6 +45,7 @@ to communicate to one endpoint.
       * [GetTermsOfService](Methods/help/GetTermsOfService.md) (`help.get_terms_of_service`)
 
 3. [Objects](Objects/README.md)
+   * [DisplayPictureSize](Objects/DisplayPictureSize.md)
    * [Document](Objects/Document.md)
    * [HelpDocument](Objects/HelpDocument.md)
    * [SessionEstablished](Objects/SessionEstablished.md)
