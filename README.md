@@ -64,4 +64,5 @@ to communicate to one endpoint.
 
 5. [Types](Types/README.md)
    * [FileTypes](Types/FileTypes.md)
+   * [PeerTypes](Types/PeerTypes.md)
    * [TextEntityTypes](Types/TextEntityTypes.md)
