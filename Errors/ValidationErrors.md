@@ -6,7 +6,7 @@ that is invalid in some way or another.
 | Name                         | Code | Hex Code | Deprecated | Versions | Description                                                                                                 |
 |------------------------------|------|----------|------------|----------|-------------------------------------------------------------------------------------------------------------|
 | InvalidUsername              | 8448 | 0x02100  | No         | 1.0      | The given username is invalid and does not meet the specification                                           |
-| InvalidPassword              | 8449 | 0x02101  | No         | 1.0      | The given password is invalid and/or insecure and does not meet the specification                           |
+| InvalidPassword              | 8449 | 0x02101  | No         | 1.0      | The given password is invalid & unsecured and does not meed the specification                               |
 | InvalidFirstName             | 8450 | 0x02102  | No         | 1.0      | The First Name provided contains invalid characters and or is too long, see the message for further details |
 | InvalidLastName              | 8451 | 0x02103  | No         | 1.0      | The Last Name provided contains invalid characters and or is too long, see the message for further details  |
 | InvalidBiography             | 8452 | 0x02104  | No         | 1.0      | The Biography is too long or contains invalid characters, see the message for further details               |
@@ -19,3 +19,7 @@ that is invalid in some way or another.
 | InvalidVersion               | 8459 | 0x0210b  | No         | 1.0      | The version is invalid or is too long, see the message for further details                                  |
 | InvalidClientName            | 8460 | 0x0210c  | No         | 1.0      | The client name contains invalid characters or is too long, see the message for further details             |
 | InvalidSessionIdentification | 8461 | 0x0210d  | No         | 1.0      | The session identification object is invalid, see the message for further details                           |
+| InvalidFileForProfilePicture | 8462 | 0x0210e  | No         | 1.0      | The given file is invalid for a profile picture                                                             |
+| FileTooLarge                 | 8463 | 0x0210f  | No         | 1.0      | The given file is too large to be processed                                                                 |
+| InvalidHelpDocumentId        | 8464 | 0x02110  | No         | 1.0      | The given Help Document ID is invalid                                                                       |
+| AgreementRequired            | 8465 | 0x02111  | No         | 1.0      | The client/user must agree to the condition to invoke the method                                            |
