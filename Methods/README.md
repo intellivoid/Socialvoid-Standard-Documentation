@@ -15,6 +15,7 @@ Incomplete
    * [GetSession](session/GetSession.md) (`session.get`)
    * [AuthenticateUser](session/AuthenticateUser.md) (`session.authenticate_user`)
    * [Logout](session/Logout.md) (`session.logout`)
+   * [Register](session/Register.md) (`session.register`)
 2. [Help](help/README.md)
    * [GetCommunityGuidelines](help/GetCommunityGuidelines.md) (`help.get_community_guidelines`)
    * [GetPrivacyPolicy](help/GetPrivacyPolicy.md) (`help.get_privacy_policy`)
