@@ -10,13 +10,15 @@ Incomplete
 
 ## Available Methods
 
-1. [Session](session/README.md)
+1. [Cloud](cloud/README.md)
+   * [GetDocument](cloud/GetDocument.md) (`cloud.get_document`)
+2. [Session](session/README.md)
    * [CreateSession](session/CreateSession.md) (`session.create`)
    * [GetSession](session/GetSession.md) (`session.get`)
    * [AuthenticateUser](session/AuthenticateUser.md) (`session.authenticate_user`)
    * [Logout](session/Logout.md) (`session.logout`)
    * [Register](session/Register.md) (`session.register`)
-2. [Help](help/README.md)
+3. [Help](help/README.md)
    * [GetCommunityGuidelines](help/GetCommunityGuidelines.md) (`help.get_community_guidelines`)
    * [GetPrivacyPolicy](help/GetPrivacyPolicy.md) (`help.get_privacy_policy`)
    * [GetServerInformation](help/GetServerInformation.md) (`help.get_server_information`)

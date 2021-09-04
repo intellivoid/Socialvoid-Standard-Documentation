@@ -34,6 +34,8 @@ to communicate to one endpoint.
    * [Server Errors](Errors/ServerErrors.md) 16384 - *(?)
 
 2. [Methods](Methods/README.md)
+   * [Cloud](Methods/cloud/README.md)
+      * [GetDocument](Methods/cloud/GetDocument.md) (`cloud.get_document`)
    * [Session](Methods/session/README.md)
       * [CreateSession](Methods/session/CreateSession.md) (`session.create`)
       * [GetSession](Methods/session/GetSession.md) (`session.get`)
