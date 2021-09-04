@@ -43,7 +43,7 @@ to communicate to one endpoint.
    * [Help](Methods/help/README.md)
       * [GetCommunityGuidelines](Methods/help/GetCommunityGuidelines.md) (`help.get_community_guidelines`)
       * [GetPrivacyPolicy](Methods/help/GetPrivacyPolicy.md) (`help.get_privacy_policy`)
-      * [GetServerInformation](Methods/help/GetServerInformation) (`help.get_server_information`)
+      * [GetServerInformation](Methods/help/GetServerInformation.md) (`help.get_server_information`)
       * [GetTermsOfService](Methods/help/GetTermsOfService.md) (`help.get_terms_of_service`)
 
 3. [Objects](Objects/README.md)
