@@ -48,6 +48,7 @@ to communicate to one endpoint.
    * [DisplayPictureSize](Objects/DisplayPictureSize.md)
    * [Document](Objects/Document.md)
    * [HelpDocument](Objects/HelpDocument.md)
+   * [Peer](Objects/Peer.md)
    * [SessionEstablished](Objects/SessionEstablished.md)
    * [Session](Objects/Session.md)
    * [SessionIdentification](Objects/SessionIdentification.md)

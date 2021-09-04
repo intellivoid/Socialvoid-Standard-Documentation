@@ -9,6 +9,7 @@ Allowing for simplicity in mind when writing clients for Socialvoid
  - [DisplayPIctureSize](DisplayPictureSize.md)
  - [Document](Document.md)
  - [HelpDocument](HelpDocument.md)
+ - [Peer](Peer.md)
  - [SessionEstablished](SessionEstablished.md)
  - [Session](Session.md)
  - [SessionIdentification](SessionIdentification.md)
