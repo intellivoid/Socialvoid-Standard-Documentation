@@ -11,6 +11,7 @@ Incomplete
 ## Available Methods
 
  - [Account](account/README.md)
+      * [DeleteProfilePicture](account/DeleteProfilePicture.md) (`account.delete_profile_picture`)
       * [SetProfilePicture](account/SetProfilePicture.md) (`account.set_profile_picture`)
  - [Cloud](cloud/README.md)
       * [GetDocument](cloud/GetDocument.md) (`cloud.get_document`)
