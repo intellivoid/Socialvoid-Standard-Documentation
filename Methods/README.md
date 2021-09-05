@@ -10,6 +10,8 @@ Incomplete
 
 ## Available Methods
 
+ - [Account](account/README.md)
+      * [SetProfilePicture](account/SetProfilePicture.md) (`account.set_profile_picture`)
  - [Cloud](cloud/README.md)
       * [GetDocument](cloud/GetDocument.md) (`cloud.get_document`)
  - [Session](session/README.md)

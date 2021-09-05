@@ -34,6 +34,8 @@ to communicate to one endpoint.
       * [Server Errors](Errors/ServerErrors.md) 16384 - *(?)
 
  - [Methods](Methods/README.md)
+      * [Account](Methods/account/README.md)
+         * [SetProfilePicture](Methods/account/SetProfilePicture.md) (`account.set_profile_picture`)
       * [Cloud](Methods/cloud/README.md)
          * [GetDocument](Methods/cloud/GetDocument.md) (`cloud.get_document`)
       * [Session](Methods/session/README.md)
