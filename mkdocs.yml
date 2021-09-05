@@ -1,2 +1,33 @@
-site_name: Socialvoid Standard Documentation 1.0
+site_name: Socialvoid Standard 1.0
+site_description: The Socialvoid Standard Documentation, version 1.0
+site_author: Zi Xing Narrakas
+copyright: Intellivoid Technologies 2017-2021
+
 docs_dir: tmp/
+repo_url: https://github.com/intellivoid/Socialvoid-Standard-Documentation
+edit_uri: "edit/master"
+
+theme:
+    name: mkdocs
+    highlightjs: true
+    hljs_languages:
+      - json
+      - python
+
+nav:
+  - Home: 'index.md'
+  - Errors: 
+    - Errors: 'Errors/index.md'
+    - 'Validation Errors': 'Errors/ValidationErrors.md'
+    - 'Authentication Errors': 'Errors/AuthenticationErrors.md'
+    - 'Media Errors': 'Errors/MediaErrors.md'
+    - 'Network Errors': 'Errors/NetworkErrors.md'
+    - 'Server Errors': 'Errors/ServerErrors.md'
+  - Methods:
+    - Methods: 'Methods/index.md'
+    - Cloud: 'Methods/cloud/index.md'
+    - Session: 'Methods/session/index.md'
+    - Help: 'Methods/help/index.md'
+  - Objects: 'Objects/index.md'
+  - Specifications: 'Specifications/index.md'
+  - Types: 'Types/index.md'
