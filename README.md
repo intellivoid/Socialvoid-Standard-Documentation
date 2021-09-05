@@ -26,14 +26,14 @@ to communicate to one endpoint.
 
 ## Table of contents
 
-1. [Errors](Errors/README.md)
+* [Errors](Errors/README.md)
    * [Validation Errors](Errors/ValidationErrors.md) 8448 - 8703
    * [Authentication Errors](Errors/AuthenticationErrors.md) 8704 - 8979
    * [Media Errors](Errors/MediaErrors.md) 8960 - 12543
    * [Network Errors](Errors/NetworkErrors.md) 12544 - 16383
    * [Server Errors](Errors/ServerErrors.md) 16384 - *(?)
 
-2. [Methods](Methods/README.md)
+* [Methods](Methods/README.md)
    * [Cloud](Methods/cloud/README.md)
       * [GetDocument](Methods/cloud/GetDocument.md) (`cloud.get_document`)
    * [Session](Methods/session/README.md)
@@ -48,7 +48,7 @@ to communicate to one endpoint.
       * [GetServerInformation](Methods/help/GetServerInformation.md) (`help.get_server_information`)
       * [GetTermsOfService](Methods/help/GetTermsOfService.md) (`help.get_terms_of_service`)
 
-3. [Objects](Objects/README.md)
+* [Objects](Objects/README.md)
    * [DisplayPictureSize](Objects/DisplayPictureSize.md)
    * [Document](Objects/Document.md)
    * [HelpDocument](Objects/HelpDocument.md)
@@ -59,7 +59,7 @@ to communicate to one endpoint.
    * [SessionIdentification](Objects/SessionIdentification.md)
    * [TextEntity](Objects/TextEntity.md)
 
-4. [Specifications](Specifications/README.md)
+* [Specifications](Specifications/README.md)
    * [CdnServer](Specifications/CdnServer.md)
    * [ClientHashSpecification](Specifications/ClientHashSpecification.md)
    * [ClientNameSpecification](Specifications/ClientNameSpecification.md)
@@ -69,7 +69,7 @@ to communicate to one endpoint.
    * [SessionChallengeSpecification](Specifications/SessionChallengeSpecification.md)
    * [SessionIdSpecification](Specifications/SessionIdSpecification.md)
 
-5. [Types](Types/README.md)
+* [Types](Types/README.md)
    * [FileTypes](Types/FileTypes.md)
    * [PeerTypes](Types/PeerTypes.md)
    * [TextEntityTypes](Types/TextEntityTypes.md)
