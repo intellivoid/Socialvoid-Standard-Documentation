@@ -19,7 +19,7 @@ to many variations of Socialvoid for as long as the standard is followed.
 ## Getting Started
 
 Socialvoid is basically an RPC server with it's own set of methods, 
-objects and representations but following the standard of whatever protcol
+objects and representations but following the standard of whatever protocol
 it chooses to use. Clients are basically RPC Clients that are designed
 to communicate to one endpoint.
 
