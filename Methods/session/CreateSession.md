@@ -9,6 +9,7 @@ is reset whenever the session is used in one way or another.
 ## Description
 
 A description of the method and it's properties
+
 | Property              | Value                                                     |
 |-----------------------|-----------------------------------------------------------|
 | Method Name           | CreateSession                                             |

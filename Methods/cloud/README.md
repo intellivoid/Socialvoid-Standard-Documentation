@@ -2,4 +2,4 @@
 
 ## Contents
 
-1. [GetDocument](GetDocument.md) (`cloud.get_document`)
+ - [GetDocument](GetDocument.md) (`cloud.get_document`)
