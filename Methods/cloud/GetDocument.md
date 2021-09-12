@@ -1,4 +1,4 @@
-# GetSession (cloud.get_document)
+# GetDocument (cloud.get_document)
 
 Returns information about the requested document on the server
 
