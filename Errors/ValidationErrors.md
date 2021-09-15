@@ -15,7 +15,7 @@ that is invalid in some way or another.
 | InvalidPostText              | 8455 | 0x02107  | No         | 1.0      | The post contains invalid characters or is too long, see the message for further details                    |
 | InvalidClientPublicHash      | 8456 | 0x02108  | No         | 1.0      | The client's public hash is invalid and cannot be identified as a sha256                                    |
 | InvalidClientPrivateHash     | 8457 | 0x02109  | No         | 1.0      | The client's private hash is invalid and cannot be identified as a sha256                                   |
-| InvalidPlatform              | 8464 | 0x02110  | No         | 1.0      | The platform name contains invalid characters or is too long, see the message for further details           |
+| InvalidPlatform              | 8458 | 0x0210a  | No         | 1.0      | The platform name contains invalid characters or is too long, see the message for further details           |
 | InvalidVersion               | 8459 | 0x0210b  | No         | 1.0      | The version is invalid or is too long, see the message for further details                                  |
 | InvalidClientName            | 8460 | 0x0210c  | No         | 1.0      | The client name contains invalid characters or is too long, see the message for further details             |
 | InvalidSessionIdentification | 8461 | 0x0210d  | No         | 1.0      | The session identification object is invalid, see the message for further details                           |
