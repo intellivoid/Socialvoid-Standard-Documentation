@@ -52,9 +52,8 @@ any method.
 | BadSessionChallengeAnswer            | [AuthenticationErrors](../../Errors/AuthenticationErrors.md) |
 | IncorrectLoginCredentials            | [AuthenticationErrors](../../Errors/AuthenticationErrors.md) |
 | IncorrectTwoFactorAuthenticationCode | [AuthenticationErrors](../../Errors/AuthenticationErrors.md) |
-| InvalidClientPublicHash              | [ValidationErrors](../../Errors/ValidationErrors.md) |
-| InvalidSessionIdentification         | [ValidationErrors](../../Errors/ValidationErrors.md) |
-| NoPasswordAuthenticationAvailable    | [AuthenticationErrors](../../Errors/AuthenticationErrors.md) |
+| InvalidClientPublicHash              | [ValidationErrors](../../Errors/ValidationErrors.md)         |
+| InvalidSessionIdentification         | [ValidationErrors](../../Errors/ValidationErrors.md)         |
 | PrivateAccessTokenRequired           | [AuthenticationErrors](../../Errors/AuthenticationErrors.md) |
 | SessionExpiredException              | [AuthenticationErrors](../../Errors/AuthenticationErrors.md) |
 | TwoFactorAuthenticationRequired      | [AuthenticationErrors](../../Errors/AuthenticationErrors.md) |
