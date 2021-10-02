@@ -64,7 +64,7 @@ SHA1 result that is required.
  - https://github.com/pyauth/pyotp (Python)
  - https://github.com/soveran/totp (Ruby)
  - https://github.com/suvash/one-time (Clojure)
- - https://github.com/LanceGin/jsotp (Javascript)
+ - https://github.com/LanceGin/jsotp (JavaScript)
  - https://github.com/tilkinsc/COTP (C/C++)
  - https://github.com/pedrosancao/php-otp (PHP)
  - https://github.com/samdjstevens/java-totp (Java)
