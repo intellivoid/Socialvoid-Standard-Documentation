@@ -81,9 +81,9 @@ An error response is simple a `application/json` that looks like this
 
 ```json
 {
-    "success":false,
-    "error_code":0,
-    "message":"This is a example error"
+    "success": false,
+    "error_code": 0,
+    "message": "This is an example error"
 }
 ```
 
