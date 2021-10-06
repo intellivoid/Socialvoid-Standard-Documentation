@@ -19,7 +19,7 @@ kQcF8mwPQZ@b5yBCNqv8EEhhv
 mnFf.swwHVwqsekhNULfmbtvJ123
 ```
 
-## Invalid Passwords
+## Invalid passwords
 ```
 password
 Password
@@ -33,8 +33,8 @@ T$DRgY[Shzu+/<pv}^Hjs{)c
 
 ## Specification
 
- - A password must be 12 characters long or longer.
- - A password cannot longer than 128 characters
- - Must contains a minimum of 1 non-alphanumeric character
- - Must contain a minimum of one uppercase character
+ - A password must be at least 12 characters.
+ - A password cannot be longer than 128 characters.
+ - Must contain a minimum of 1 non-alphanumeric character.
+ - Must contain a minimum of one uppercase character.
  - Must contain a minimum of two numbers.
