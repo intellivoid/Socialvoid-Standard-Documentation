@@ -10,6 +10,6 @@ build:
 	cp -R Types tmp/Types
 	cp README.md tmp/README.md
 	find tmp/ -name "*.tgn" | xargs rm 
-	find tmp/ -name "README.md" -print0 | xargs -0 rename "s/README/index/"
+	find tmp/ -name "README.md" -exec sh -c 'mv {} $$(dirname {})/index.md' \;
 	find tmp/ -type f -name "*.md" -exec sed -i'' -e 's/README.md/index.md/g' {} +
 	python3 -m mkdocs build
