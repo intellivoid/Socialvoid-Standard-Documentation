@@ -15,11 +15,11 @@ document ID, an access denied error will be returned.
 
 ## Structure
 
-| Property Name     | Type(s)    | Specification                      | Deprecated | Versions | Description                                                 |
-|-------------------|------------|------------------------------------|------------|----------|-------------------------------------------------------------|
-| id                | `string`   | Not Applicable                     | No         | 1.0      | The ID of the document                                      |
-| file_mime         | `string`   | Not Applicable                     | No         | 1.0      | The Mime of the file                                        |
-| file_name         | `string`   | Not Applicable                     | No         | 1.0      | The original name of the file                               |
-| file_size         | `int`      | Not Applicable                     | No         | 1.0      | The size of the file in bytes                               |
-| file_type         | `string`   | [FileTypes](../Types/FileTypes.md) | No         | 1.0      | The type of file detected by the server                     |
-| flags             | `string[]` | Not Applicable                     | No         | 1.0      | An array of flags associated with this document             |
+| Property Name | Type(s)    | Specification                      | Deprecated | Versions | Description                                     |
+|---------------|------------|------------------------------------|------------|----------|-------------------------------------------------|
+| id            | `string`   | Not Applicable                     | No         | 1.0      | The ID of the document                          |
+| file_mime     | `string`   | Not Applicable                     | No         | 1.0      | The Mime of the file                            |
+| file_name     | `string`   | Not Applicable                     | No         | 1.0      | The original name of the file                   |
+| file_size     | `int`      | Not Applicable                     | No         | 1.0      | The size of the file in bytes                   |
+| file_type     | `string`   | [FileTypes](../Types/FileTypes.md) | No         | 1.0      | The type of file detected by the server         |
+| flags         | `string[]` | Not Applicable                     | No         | 1.0      | An array of flags associated with this document |
