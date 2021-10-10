@@ -10,6 +10,7 @@ Allowing for simplicity in mind when writing clients for Socialvoid
  - [Document](Document.md)
  - [HelpDocument](HelpDocument.md)
  - [Peer](Peer.md)
+ - [Profile](Profile.md)
  - [ServerInformation](ServerInformation.md)
  - [SessionEstablished](SessionEstablished.md)
  - [Session](Session.md)
