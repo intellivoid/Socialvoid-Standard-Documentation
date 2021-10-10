@@ -23,4 +23,3 @@ document ID, an access denied error will be returned.
 | file_size         | `int`      | Not Applicable                     | No         | 1.0      | The size of the file in bytes                               |
 | file_type         | `string`   | [FileTypes](../Types/FileTypes.md) | No         | 1.0      | The type of file detected by the server                     |
 | flags             | `string[]` | Not Applicable                     | No         | 1.0      | An array of flags associated with this document             |
-| created_timestamp | `int`      | Not Applicable                     | No         | 1.0      | The Unix Timestamp for when this document was first created |
