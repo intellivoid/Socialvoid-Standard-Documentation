@@ -3,7 +3,7 @@
 Authenticates a user via a Username & Password combination.
 Optionally two-factor authentication if the account has
 enabled it. Once authenticated, the session will be able
-to access methods that requires authentication and preform
+to access methods that requires authentication and perform
 operations as the authenticated user.
 
 Sessions will also have a much longer expiration date when

@@ -2,7 +2,7 @@
 
 The text entity object describes the text type, this is useful for clients
 to render the given text correctly. For example a "@mention" will have
-a TextEntity with the value `mention`. So that the client can preform
+a TextEntity with the value `mention`. So that the client can perform
 an action when this entity is clicked.
 
 

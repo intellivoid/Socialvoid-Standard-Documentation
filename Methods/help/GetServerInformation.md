@@ -1,7 +1,7 @@
 # GetServerInformation (help.get_server_information)
 
 Returns basic information about the server that the client may need to
-preform certain actions such as uploading and downloading documents
+perform certain actions such as uploading and downloading documents
 to the CDN.
 
 ## Description
