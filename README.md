@@ -57,6 +57,7 @@ to communicate to one endpoint.
       * [Document](Objects/Document.md)
       * [HelpDocument](Objects/HelpDocument.md)
       * [Peer](Objects/Peer.md)
+      * [Post](Objects/Post.md)
       * [Profile](Objects/Profile.md)
       * [ServerInformation](Objects/ServerInformation.md)
       * [SessionEstablished](Objects/SessionEstablished.md)
