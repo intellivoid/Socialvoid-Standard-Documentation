@@ -20,7 +20,6 @@ nav:
     - Errors: 'Errors/index.md'
     - 'Validation Errors': 'Errors/ValidationErrors.md'
     - 'Authentication Errors': 'Errors/AuthenticationErrors.md'
-    - 'Media Errors': 'Errors/MediaErrors.md'
     - 'Network Errors': 'Errors/NetworkErrors.md'
     - 'Server Errors': 'Errors/ServerErrors.md'
   - Methods:
