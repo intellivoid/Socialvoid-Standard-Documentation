@@ -34,6 +34,7 @@ to communicate to one endpoint.
 
  - [Methods](Methods/README.md)
       * [Account](Methods/account/README.md)
+         * [ClearProfileBiography](Methods/account/ClearProfileBiography.md) (`account.clear_profile_biography`)
          * [DeleteProfilePicture](Methods/account/DeleteProfilePicture.md) (`account.delete_profile_picture`)
          * [SetProfilePicture](Methods/account/SetProfilePicture.md) (`account.set_profile_picture`)
       * [Cloud](Methods/cloud/README.md)
