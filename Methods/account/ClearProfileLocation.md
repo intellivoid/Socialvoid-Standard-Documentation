@@ -1,4 +1,4 @@
-# ClearProfileLocation (account.clear_profile_location)
+# ClearProfileLocation
 
 Clears the users profile location
 

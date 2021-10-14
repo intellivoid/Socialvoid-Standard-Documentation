@@ -1,4 +1,4 @@
-# Register (session.register)
+# Register
 
 Registers a new user to the network. This method is intended to be simple
 (for now), this will be changed in the future to add additional security

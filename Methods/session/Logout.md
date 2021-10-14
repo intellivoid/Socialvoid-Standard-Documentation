@@ -1,4 +1,4 @@
-# Logout (session.logout)
+# Logout
 
 If a user is already authenticated to the session, you can logout using
 this method without destroying the session. Keep in mind that the session's

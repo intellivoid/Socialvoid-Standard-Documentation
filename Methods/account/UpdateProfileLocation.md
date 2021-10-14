@@ -1,4 +1,4 @@
-# UpdateProfileLocation (account.update_profile_location)
+# UpdateProfileLocation
 
 Updates the users location
 

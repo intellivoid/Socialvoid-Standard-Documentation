@@ -1,4 +1,4 @@
-# UpdateProfileBiography (account.update_profile_biography)
+# UpdateProfileBiography
 
 Updates the users profile biography
 

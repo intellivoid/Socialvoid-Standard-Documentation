@@ -1,4 +1,4 @@
-# CreateSession (session.create)
+# CreateSession
 
 Establishes a new session to the network, new and unauthenticated sessions
 expires after 10 minutes of inactivity, authenticating to the session

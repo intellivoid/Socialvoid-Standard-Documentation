@@ -1,4 +1,4 @@
-# GetTermsOfService (help.get_terms_of_service)
+# GetTermsOfService
 
 Returns a [HelpDocument](../../Objects/HelpDocument.md) object that
 contains information about the Terms of Service for the network. This

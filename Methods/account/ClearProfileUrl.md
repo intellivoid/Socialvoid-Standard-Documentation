@@ -1,4 +1,4 @@
-# ClearProfileUrl (account.clear_profile_url)
+# ClearProfileUrl
 
 Clears the peers URL/Website from the profile
 

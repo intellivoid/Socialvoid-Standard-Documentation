@@ -1,4 +1,4 @@
-# GetDocument (cloud.get_document)
+# GetDocument
 
 Returns information about the requested document on the server
 

@@ -1,4 +1,4 @@
-# AuthenticateUser (session.authenticate_user)
+# AuthenticateUser
 
 Authenticates a user via a Username & Password combination.
 Optionally two-factor authentication if the account has

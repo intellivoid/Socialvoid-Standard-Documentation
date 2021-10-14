@@ -1,4 +1,4 @@
-# ClearProfileBiography (account.clear_profile_biography)
+# ClearProfileBiography
 
 Clears the biography set to the user profile
 

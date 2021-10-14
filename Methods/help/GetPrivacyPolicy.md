@@ -1,4 +1,4 @@
-# GetPrivacyPolicy (help.get_privacy_policy)
+# GetPrivacyPolicy
 
 Returns a [HelpDocument](../../Objects/HelpDocument.md) object that
 contains information about the Terms of Service for the network. This

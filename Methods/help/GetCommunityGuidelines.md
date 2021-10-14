@@ -1,4 +1,4 @@
-# GetCommunityGuidelines (help.get_community_guidelines)
+# GetCommunityGuidelines
 
 Returns a [HelpDocument](../../Objects/HelpDocument.md) object that
 contains information about the Terms of Service for the network. This

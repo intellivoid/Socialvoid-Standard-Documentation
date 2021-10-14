@@ -1,4 +1,4 @@
-# GetSession (session.get)
+# GetSession
 
 Returns information about the current session identified by the
 SessionIdentification parameter

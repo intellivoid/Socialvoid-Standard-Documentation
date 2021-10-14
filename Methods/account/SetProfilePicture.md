@@ -1,4 +1,4 @@
-# SetProfilePicture (account.set_profile_picture)
+# SetProfilePicture
 
 Sets a new profile picture to the user from a Document ID, the user must
 upload the document or retrieve an existing document before invoking this

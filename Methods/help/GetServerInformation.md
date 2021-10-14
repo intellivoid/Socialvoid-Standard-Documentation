@@ -1,4 +1,4 @@
-# GetServerInformation (help.get_server_information)
+# GetServerInformation
 
 Returns basic information about the server that the client may need to
 perform certain actions such as uploading and downloading documents

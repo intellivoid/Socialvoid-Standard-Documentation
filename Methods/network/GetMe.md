@@ -1,4 +1,4 @@
-# GetMe (network.get_me)
+# GetMe
 
 Returns the peer object of the authenticated peer. This method will fail if
 the session isn't authenticated
