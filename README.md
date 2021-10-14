@@ -39,6 +39,7 @@ to communicate to one endpoint.
          * [ClearProfileUrl](Methods/account/ClearProfileUrl.md) (`account.clear_profile_url`)
          * [DeleteProfilePicture](Methods/account/DeleteProfilePicture.md) (`account.delete_profile_picture`)
          * [SetProfilePicture](Methods/account/SetProfilePicture.md) (`account.set_profile_picture`)
+         * [UpdateProfileBiography](Methods/account/UpdateProfileBiography.md) (`account.update_profile_biography`)
       * [Cloud](Methods/cloud/README.md)
          * [GetDocument](Methods/cloud/GetDocument.md) (`cloud.get_document`)
       * [Session](Methods/session/README.md)
