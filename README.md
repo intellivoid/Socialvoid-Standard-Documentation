@@ -40,6 +40,7 @@ to communicate to one endpoint.
          * [DeleteProfilePicture](Methods/account/DeleteProfilePicture.md) (`account.delete_profile_picture`)
          * [SetProfilePicture](Methods/account/SetProfilePicture.md) (`account.set_profile_picture`)
          * [UpdateProfileBiography](Methods/account/UpdateProfileBiography.md) (`account.update_profile_biography`)
+         * [UpdateProfileLocation](Methods/account/UpdateProfileLocation.md) (`account.update_profile_location`)
       * [Cloud](Methods/cloud/README.md)
          * [GetDocument](Methods/cloud/GetDocument.md) (`cloud.get_document`)
       * [Session](Methods/session/README.md)
