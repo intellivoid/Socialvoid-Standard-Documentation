@@ -24,6 +24,7 @@ nav:
     - 'Server Errors': 'Errors/ServerErrors.md'
   - Methods:
     - Methods: 'Methods/index.md'
+    - Account: 'Methods/account/index.md'
     - Cloud: 'Methods/cloud/index.md'
     - Session: 'Methods/session/index.md'
     - Help: 'Methods/help/index.md'
