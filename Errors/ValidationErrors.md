@@ -24,3 +24,4 @@ that is invalid in some way or another.
 | InvalidHelpDocumentId        | 8464 | 0x02110  | No         | 1.0      | The given Help Document ID is invalid                                                                                     |
 | AgreementRequired            | 8465 | 0x02111  | No         | 1.0      | The client/user must agree to the condition to invoke the method                                                          |
 | InvalidCursorValue           | 8466 | 0x02112  | No         | 1.0      | The `cursor` parameter contains an invalid value. It cannot be a negative value or 0, see the message for further details |
+| InvalidGeoLocation           | 8467 | 0x02113  | No         | 1.0      | The given geo location value is invalid or too long                                                                       |
