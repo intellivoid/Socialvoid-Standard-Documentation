@@ -41,6 +41,7 @@ to communicate to one endpoint.
          * [SetProfilePicture](Methods/account/SetProfilePicture.md) (`account.set_profile_picture`)
          * [UpdateProfileBiography](Methods/account/UpdateProfileBiography.md) (`account.update_profile_biography`)
          * [UpdateProfileLocation](Methods/account/UpdateProfileLocation.md) (`account.update_profile_location`)
+         * [UpdateProfileName](Methods/account/UpdateProfileName.md) (`account.update_profile_name`)
       * [Cloud](Methods/cloud/README.md)
          * [GetDocument](Methods/cloud/GetDocument.md) (`cloud.get_document`)
       * [Session](Methods/session/README.md)

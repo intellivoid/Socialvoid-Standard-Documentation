@@ -18,6 +18,7 @@ Incomplete
       * [SetProfilePicture](account/SetProfilePicture.md) (`account.set_profile_picture`)
       * [UpdateProfileBiography](account/UpdateProfileBiography.md) (`account.update_profile_biography`)
       * [UpdateProfileLocation](account/UpdateProfileLocation.md) (`account.update_profile_location`)
+      * [UpdateProfileName](account/UpdateProfileName.md) (`account.update_profile_name`)
  - [Cloud](cloud/README.md)
       * [GetDocument](cloud/GetDocument.md) (`cloud.get_document`)
  - [Session](session/README.md)
