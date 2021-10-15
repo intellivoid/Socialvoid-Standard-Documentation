@@ -10,3 +10,4 @@
  - [UpdateProfileBiography](UpdateProfileBiography.md) (`account.update_profile_biography`)
  - [UpdateProfileLocation](UpdateProfileLocation.md) (`account.update_profile_location`)
  - [UpdateProfileName](UpdateProfileName.md) (`account.update_profile_name`)
+ - [UpdateProfileUrl](UpdateProfileUrl.md) (`account.update_profile_url`)

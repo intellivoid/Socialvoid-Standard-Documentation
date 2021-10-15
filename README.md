@@ -42,6 +42,7 @@ to communicate to one endpoint.
          * [UpdateProfileBiography](Methods/account/UpdateProfileBiography.md) (`account.update_profile_biography`)
          * [UpdateProfileLocation](Methods/account/UpdateProfileLocation.md) (`account.update_profile_location`)
          * [UpdateProfileName](Methods/account/UpdateProfileName.md) (`account.update_profile_name`)
+         * [UpdateProfileUrl](Methods/account/UpdateProfileUrl.md) (`account.update_profile_url`)
       * [Cloud](Methods/cloud/README.md)
          * [GetDocument](Methods/cloud/GetDocument.md) (`cloud.get_document`)
       * [Session](Methods/session/README.md)

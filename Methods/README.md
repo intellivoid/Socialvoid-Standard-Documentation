@@ -19,6 +19,7 @@ Incomplete
       * [UpdateProfileBiography](account/UpdateProfileBiography.md) (`account.update_profile_biography`)
       * [UpdateProfileLocation](account/UpdateProfileLocation.md) (`account.update_profile_location`)
       * [UpdateProfileName](account/UpdateProfileName.md) (`account.update_profile_name`)
+      * [UpdateProfileUrl](account/UpdateProfileUrl.md) (`account.update_profile_url`)
  - [Cloud](cloud/README.md)
       * [GetDocument](cloud/GetDocument.md) (`cloud.get_document`)
  - [Session](session/README.md)
