@@ -11,4 +11,5 @@ functions.
  - [FileTypes](FileTypes.md)
  - [PeerTypes](PeerTypes.md)
  - [PostTypes](PostTypes.md)
+ - [RelationshipTypes](RelationshipTypes.md)
  - [TextEntityTypes](TextEntityTypes.md)
