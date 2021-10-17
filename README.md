@@ -86,4 +86,5 @@ to communicate to one endpoint.
       * [FileTypes](Types/FileTypes.md)
       * [PeerTypes](Types/PeerTypes.md)
       * [PostTypes](Types/PostTypes.md)
+      * [RelationshipTypes](Types/RelationshipTypes.md)
       * [TextEntityTypes](Types/TextEntityTypes.md)
