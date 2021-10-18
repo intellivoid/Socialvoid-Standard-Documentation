@@ -39,3 +39,4 @@ Incomplete
       * [GetFollowing](network/GetFollowing.md) (`network.get_following`)
       * [GetMe](network/GetMe.md) (`network.get_me`)
       * [GetProfile](network/GetProfile.md) (`network.get_profile`)
+      * [ResolvePeer](network/ResolvePeer.md) (`network.resolve_peer`)
