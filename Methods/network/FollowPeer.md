@@ -4,14 +4,14 @@ Follows another peer on the network
 
 ## Description
 
-| Property                | Value                 |
-|-------------------------|-----------------------|
-| Method Name             | FollowPeer            |
-| Method                  | `network.follow_peer` |
-| Response Type(s)        | `bool`                |
-| Version                 | 1.0.0.0               |
-| Authentication Required | Yes                   |
-| Peer Type Accessibility | `USER`                |
+| Property                | Value                                                  |
+|-------------------------|--------------------------------------------------------|
+| Method Name             | FollowPeer                                             |
+| Method                  | `network.follow_peer`                                  |
+| Response Type(s)        | [`RelationshipType`](../../Types/RelationshipTypes.md) |
+| Version                 | 1.0.0.0                                                |
+| Authentication Required | Yes                                                    |
+| Peer Type Accessibility | `USER`                                                 |
 
 ## Parameters
 
