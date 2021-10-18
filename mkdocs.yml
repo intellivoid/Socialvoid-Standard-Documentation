@@ -29,7 +29,7 @@ nav:
     - Help: 'Methods/help/index.md'
     - Network: 'Method/network/index.md'
     - Session: 'Methods/session/index.md'
-    - Timeline: 'Methods/timeline.index.md'
+    - Timeline: 'Methods/timeline/index.md'
   - Objects: 'Objects/index.md'
   - Specifications: 'Specifications/index.md'
   - Types: 'Types/index.md'
