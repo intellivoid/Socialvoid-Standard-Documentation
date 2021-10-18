@@ -1,6 +1,6 @@
 # GetFollowers
 
-Returns an array of peers that follows the given peer, if the peer parameter is empty
+Returns an array of peers who follow the given peer, if the peer parameter is empty
 then it will return an array of peers that follows the authenticated peer.
 
 ## Description
