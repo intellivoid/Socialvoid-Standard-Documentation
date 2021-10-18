@@ -36,4 +36,5 @@ Incomplete
  - [Network](network/README.md)
       * [FollowPeer](network/FollowPeer.md) (`network.follow_peer`)
       * [GetFollowers](network/GetFollowers.md) (`network.get_followers`)
+      * [GetFollowing](network/GetFollowing.md) (`network.get_following`)
       * [GetMe](network/GetMe.md) (`network.get_me`)

@@ -59,6 +59,7 @@ to communicate to one endpoint.
       * [Network](Methods/network/README.md)
          * [FollowPeer](Methods/network/FollowPeer.md) (`network.follow_peer`)
          * [GetFollowers](Methods/network/GetFollowers.md) (`network.get_followers`)
+         * [GetFollowing](Methods/network/GetFollowing.md) (`network.get_following`)
          * [GetMe](Methods/network/GetMe.md) (`network.get_me`)
 
  - [Objects](Objects/README.md)
