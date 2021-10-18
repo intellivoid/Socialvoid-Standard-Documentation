@@ -42,3 +42,4 @@ Incomplete
       * [ResolvePeer](network/ResolvePeer.md) (`network.resolve_peer`)
       * [UnfollowPeer](network/UnfollowPeer.md) (`network.unfollow_peer`)
   - [Timeline](timeline/README.md)
+      * [Compose](timeline/Compose.md) (`timeline.compose`)

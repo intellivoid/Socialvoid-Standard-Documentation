@@ -65,6 +65,7 @@ to communicate to one endpoint.
          * [ResolvePeer](Methods/network/ResolvePeer.md) (`network.resolve_peer`)
          * [UnfollowPeer](Methods/network/UnfollowPeer.md) (`network.unfollow_peer`)
       * [Timeline](Methods/timeline/README.md)
+         * [Compose](Methods/timeline/Compose.md) (`timeline.compose`)
 
  - [Objects](Objects/README.md)
       * [DisplayPictureSize](Objects/DisplayPictureSize.md)
