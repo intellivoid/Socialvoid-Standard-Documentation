@@ -8,3 +8,4 @@
  - [GetMe](GetMe.md) (`network.get_me`)
  - [GetProfile](GetProfile.md) (`network.get_profile`)
  - [ResolvePeer](ResolvePeer.md) (`network.resolve_peer`)
+ - [UnfollowPeer](UnfollowPeer.md) (`network.unfollow_peer`)
