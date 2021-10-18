@@ -64,6 +64,7 @@ to communicate to one endpoint.
          * [GetProfile](Methods/network/GetProfile.md) (`network.get_profile`)
          * [ResolvePeer](Methods/network/ResolvePeer.md) (`network.resolve_peer`)
          * [UnfollowPeer](Methods/network/UnfollowPeer.md) (`network.unfollow_peer`)
+      * [Timeline](Methods/timeline/README.md)
 
  - [Objects](Objects/README.md)
       * [DisplayPictureSize](Objects/DisplayPictureSize.md)
