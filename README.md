@@ -58,6 +58,7 @@ to communicate to one endpoint.
          * [GetTermsOfService](Methods/help/GetTermsOfService.md) (`help.get_terms_of_service`)
       * [Network](Methods/network/README.md)
          * [FollowPeer](Methods/network/FollowPeer.md) (`network.follow_peer`)
+         * [GetFollowers](Methods/network/GetFollowers.md) (`network.get_followers`)
          * [GetMe](Methods/network/GetMe.md) (`network.get_me`)
 
  - [Objects](Objects/README.md)

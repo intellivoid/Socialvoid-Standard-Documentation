@@ -35,4 +35,5 @@ Incomplete
       * [GetTermsOfService](help/GetTermsOfService.md) (`help.get_terms_of_service`)
  - [Network](network/README.md)
       * [FollowPeer](network/FollowPeer.md) (`network.follow_peer`)
+      * [GetFollowers](network/GetFollowers.md) (`network.get_followers`)
       * [GetMe](network/GetMe.md) (`network.get_me`)
