@@ -57,6 +57,7 @@ to communicate to one endpoint.
          * [GetServerInformation](Methods/help/GetServerInformation.md) (`help.get_server_information`)
          * [GetTermsOfService](Methods/help/GetTermsOfService.md) (`help.get_terms_of_service`)
       * [Network](Methods/network/README.md)
+         * [FollowPeer](Methods/network/FollowPeer.md) (`network.follow_peer`)
          * [GetMe](Methods/network/GetMe.md) (`network.get_me`)
 
  - [Objects](Objects/README.md)

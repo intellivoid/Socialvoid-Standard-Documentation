@@ -34,4 +34,5 @@ Incomplete
       * [GetServerInformation](help/GetServerInformation.md) (`help.get_server_information`)
       * [GetTermsOfService](help/GetTermsOfService.md) (`help.get_terms_of_service`)
  - [Network](network/README.md)
+      * [FollowPeer](network/FollowPeer.md) (`network.follow_peer`)
       * [GetMe](network/GetMe.md) (`network.get_me`)
