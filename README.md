@@ -61,6 +61,7 @@ to communicate to one endpoint.
          * [GetFollowers](Methods/network/GetFollowers.md) (`network.get_followers`)
          * [GetFollowing](Methods/network/GetFollowing.md) (`network.get_following`)
          * [GetMe](Methods/network/GetMe.md) (`network.get_me`)
+         * [GetProfile](Methods/network/GetProfile.md) (`network.get_profile`)
 
  - [Objects](Objects/README.md)
       * [DisplayPictureSize](Objects/DisplayPictureSize.md)
