@@ -17,11 +17,11 @@ Composes a new post to push to the timeline
 
 A list of parameters that this method accepts
 
-| Parameter Name         | Type(s)                                                           | Required                 | Specification         | Deprecated | Versions | Description                                    |
-|------------------------|-------------------------------------------------------------------|--------------------------|-----------------------|------------|----------|------------------------------------------------|
-| session_identification | [`SessionIdentification`](../../Objects/SessionIdentification.md) | Yes                      | Not Applicable        | No         | 1.0      | The Session Identification object              |
-| text                   | string                                                            | Yes                      | Needs to be completed | No         | 1.0      | The text contents of the post to compose       |
-| attachments            | `string[]`                                                        | No (Not implemented yet) | Needs to be completed | ?          | ?        | An array of Document IDs to attach to the post |
+| Parameter Name         | Type(s)                                                           | Required | Specification  | Deprecated | Versions | Description                                    |
+|------------------------|-------------------------------------------------------------------|----------|----------------|------------|----------|------------------------------------------------|
+| session_identification | [`SessionIdentification`](../../Objects/SessionIdentification.md) | Yes      | Not Applicable | No         | 1.0      | The Session Identification object              |
+| text                   | string                                                            | Yes      | Not Applicable | No         | 1.0      | The text contents of the post to compose       |
+| attachments            | `string[]`                                                        | No       | Not Applicable | No         | 1.0      | An array of Document IDs to attach to the post |
 
 ## Possible Errors
 
@@ -41,3 +41,4 @@ any method.
 | NotAuthenticated             | [AuthenticationErrors](../../Errors/AuthenticationErrors.md) |
 | InvalidPostText              | [ValidationErrors](../../Errors/ValidationErrors.md)         |
 | DocumentNotFound             | [NetworkErrors](../../Errors/NetworkErrors.md)               |
+| InvalidAttachments           | [ValidationErrors](../../Errors/ValidationErrors.md)         |
