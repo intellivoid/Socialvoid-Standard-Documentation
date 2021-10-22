@@ -45,3 +45,4 @@ Incomplete
       * [Compose](timeline/Compose.md) (`timeline.compose`)
       * [Delete](timeline/Delete.md) (`timeline.delete`)
       * [GetLikes](timeline/GetLikes.md) (`timeline.get_likes`)
+      * [GetPost](timeline/GetPost.md) (`timeline.get_post`)
