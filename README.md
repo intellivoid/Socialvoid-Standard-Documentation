@@ -67,6 +67,7 @@ to communicate to one endpoint.
       * [Timeline](Methods/timeline/README.md)
          * [Compose](Methods/timeline/Compose.md) (`timeline.compose`)
          * [Delete](Methods/timeline/Delete.md) (`timeline.delete`)
+         * [GetLikes](Methods/timeline/GetLikes.md) (`timeline.get_likes`)
 
  - [Objects](Objects/README.md)
       * [DisplayPictureSize](Objects/DisplayPictureSize.md)

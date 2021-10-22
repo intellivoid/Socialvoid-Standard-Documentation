@@ -44,3 +44,4 @@ Incomplete
   - [Timeline](timeline/README.md)
       * [Compose](timeline/Compose.md) (`timeline.compose`)
       * [Delete](timeline/Delete.md) (`timeline.delete`)
+      * [GetLikes](timeline/GetLikes.md) (`timeline.get_likes`)
