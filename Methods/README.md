@@ -47,3 +47,4 @@ Incomplete
       * [GetLikes](timeline/GetLikes.md) (`timeline.get_likes`)
       * [GetPost](timeline/GetPost.md) (`timeline.get_post`)
       * [GetQuotes](timeline/GetQuotes.md) (`timeline.get_quotes`)
+      * [GetReplies](timeline/GetReplies.md) (`timeline.get_replies`)

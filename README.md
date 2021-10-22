@@ -70,6 +70,7 @@ to communicate to one endpoint.
          * [GetLikes](Methods/timeline/GetLikes.md) (`timeline.get_likes`)
          * [GetPost](Methods/timeline/GetPost.md) (`timeline.get_post`)
          * [GetQuotes](Methods/timeline/GetQuotes.md) (`timeline.get_quotes`)
+         * [GetReplies](Methods/timeline/GetReplies.md) (`timeline.get_replies`)
 
  - [Objects](Objects/README.md)
       * [DisplayPictureSize](Objects/DisplayPictureSize.md)
