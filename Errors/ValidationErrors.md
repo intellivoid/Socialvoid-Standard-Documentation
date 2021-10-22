@@ -26,3 +26,6 @@ that is invalid in some way or another.
 | InvalidPageValue             | 8466 | 0x02112  | No         | 1.0      | The `page` parameter contains an invalid value. It cannot be a negative value or 0, see the message for further details |
 | InvalidGeoLocation           | 8467 | 0x02113  | No         | 1.0      | The given geo location value is invalid or too long                                                                     |
 | InvalidUrlValue              | 8468 | 0x02114  | No         | 1.0      | The given URL input is invalid                                                                                          |
+| TooManyAttachments           | 8469 | 0x02115  | No         | 1.0      | Raised when the amount of attachments exceeds what the server supports                                                  |
+| InvalidAttachments           | 8470 | 0x02116  | No         | 1.0      | Raised when the given attachments are invalid                                                                           |
+| InvalidFileName              | 8471 | 0x02117  | No         | 1.0      | Raised when the given filename is invalid                                                                               |
