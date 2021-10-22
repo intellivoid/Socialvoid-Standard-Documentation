@@ -22,7 +22,7 @@ A list of parameters that this method accepts
 |------------------------|-------------------------------------------------------------------|----------|----------------|------------|----------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | session_identification | [`SessionIdentification`](../../Objects/SessionIdentification.md) | Yes      | Not Applicable | No         | 1.0      | The Session Identification object                                                                                                                                                                                                                                                                |
 | peer                   | string                                                            | No       | Not Applicable | No         | 1.0      | The peer ID or Username (With leading @) if left empty, the selected peer will be the authenticated user (yourself)                                                                                                                                                                              |
-| cursor                 | int                                                               | No       | Not Applicable | No         | 1.0      | The current cursor (Page number) of the return results. The default value will be 1 if no value is provided. See the results of `retrieve_following_max_limit` value in [ServerInformation](../../Objects/ServerInformation.md) to determine the size of the results that the server may return. |
+| page                   | int                                                               | No       | Not Applicable | No         | 1.0      | The current page number of the return results. The default value will be 1 if no value is provided. See the results of `retrieve_following_max_limit` value in [ServerInformation](../../Objects/ServerInformation.md) to determine the size of the results that the server may return. |
 
 ## Possible Errors
 
@@ -42,4 +42,4 @@ any method.
 | NotAuthenticated             | [AuthenticationErrors](../../Errors/AuthenticationErrors.md) |
 | PeerNotFound                 | [NetworkErrors](../../Errors/NetworkErrors.md)               |
 | InvalidPeerInput             | [ValidationErrors](../../Errors/ValidationErrors.md)         |
-| InvalidCursorValue           | [ValidationErrors](../../Errors/ValidationErrors.md)         |
+| InvalidPageValue             | [ValidationErrors](../../Errors/ValidationErrors.md)         |
