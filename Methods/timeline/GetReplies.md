@@ -1,6 +1,6 @@
-# GetQuotes
+# GetReplies
 
-Returns an array of post quotes for the selected post
+Returns an array of posts that replied to the selected post
 
 ## Description
 
