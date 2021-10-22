@@ -43,3 +43,4 @@ Incomplete
       * [UnfollowPeer](network/UnfollowPeer.md) (`network.unfollow_peer`)
   - [Timeline](timeline/README.md)
       * [Compose](timeline/Compose.md) (`timeline.compose`)
+      * [Delete](timeline/Delete.md) (`timeline.delete`)

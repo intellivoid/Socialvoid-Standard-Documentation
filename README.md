@@ -66,6 +66,7 @@ to communicate to one endpoint.
          * [UnfollowPeer](Methods/network/UnfollowPeer.md) (`network.unfollow_peer`)
       * [Timeline](Methods/timeline/README.md)
          * [Compose](Methods/timeline/Compose.md) (`timeline.compose`)
+         * [Delete](Methods/timeline/Delete.md) (`timeline.delete`)
 
  - [Objects](Objects/README.md)
       * [DisplayPictureSize](Objects/DisplayPictureSize.md)
