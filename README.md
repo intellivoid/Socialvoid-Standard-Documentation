@@ -75,6 +75,7 @@ to communicate to one endpoint.
          * [GetPost](Methods/timeline/GetPost.md) (`timeline.get_post`)
          * [GetQuotes](Methods/timeline/GetQuotes.md) (`timeline.get_quotes`)
          * [GetReplies](Methods/timeline/GetReplies.md) (`timeline.get_replies`)
+         * [GetRepostedPeers](Methods/timeline/GetRepostedPeers.md) (`timeline.get_reposted_peers`)
 
  - [Objects](Objects/README.md)
       * [DisplayPictureSize](Objects/DisplayPictureSize.md)
