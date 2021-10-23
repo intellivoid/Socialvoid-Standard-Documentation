@@ -13,3 +13,4 @@ or creating the building blocks of the Socialvoid foundation.
  - [Bounty](https://github.com/Bounty780)
  - [Sayan Biswas](https://github.com/Dank-del)
  - [ALi.w](https://github.com/ALiwoto)
+ - [Justasic](https://github.com/Justasic)
