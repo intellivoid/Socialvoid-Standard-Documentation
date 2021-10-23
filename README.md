@@ -26,6 +26,9 @@ to communicate to one endpoint.
 
 ## Table of contents
 
+ - [General](General/README.md)
+      * [Open Source Projects](General/OpenSourceProjects.md)
+
  - [Errors](Errors/README.md)
       * [Validation Errors](Errors/ValidationErrors.md) 8448 - 8703
       * [Authentication Errors](Errors/AuthenticationErrors.md) 8704 - 8979
