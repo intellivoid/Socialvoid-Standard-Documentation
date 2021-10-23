@@ -20,3 +20,4 @@ the client should communicate to for other purposes such as a CDN.
 | retrieve_quotes_max_limit    | `int`    | Not Applicable | No         | 1.0      | The maximum amount of quotes a client can retrieve at once using the method `timeline.get_quotes` via the `limit` parameter                            |
 | retrieve_followers_max_limit | `int`    | Not Applicable | No         | 1.0      | The maximum amount of followers a client can retrieve at once using the method `network.get_followers` via the `limit` parameter                       |
 | retrieve_following_max_limit | `int`    | Not Applicable | No         | 1.0      | The maximum amount of following peers a client can retrieve at once using the method `network.get_following` via the `limit` parameter                 |
+| retrieve_feed_max_limit | `int`    | Not Applicable | No         | 1.0      | add description                 |
