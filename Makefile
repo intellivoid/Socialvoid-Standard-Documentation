@@ -3,6 +3,7 @@ clean:
 
 build:
 	mkdir tmp
+	cp -R General tmp/General
 	cp -R Errors tmp/Errors
 	cp -R Methods tmp/Methods
 	cp -R Objects tmp/Objects

@@ -16,6 +16,9 @@ theme:
 
 nav:
   - Home: 'index.md'
+  - General: 
+    - General: 'General/index.md'
+    - 'Open Source Projects': 'General/OpenSourceProjects.md'
   - Errors: 
     - Errors: 'Errors/index.md'
     - 'Validation Errors': 'Errors/ValidationErrors.md'
