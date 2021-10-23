@@ -19,6 +19,7 @@ nav:
   - General: 
     - General: 'General/index.md'
     - 'Open Source Projects': 'General/OpenSourceProjects.md'
+      'Contributors': 'General/Contributors.md'
   - Errors: 
     - Errors: 'Errors/index.md'
     - 'Validation Errors': 'Errors/ValidationErrors.md'

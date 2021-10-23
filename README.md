@@ -27,6 +27,7 @@ to communicate to one endpoint.
 ## Table of contents
 
  - [General](General/README.md)
+      * [Contributors](General/Contributors.md)
       * [Open Source Projects](General/OpenSourceProjects.md)
 
  - [Errors](Errors/README.md)
