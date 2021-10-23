@@ -1,4 +1,4 @@
-# Delete
+# GetPost
 
 Retrieves an existing post from the timeline
 
