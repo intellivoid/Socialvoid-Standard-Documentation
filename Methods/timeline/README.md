@@ -9,4 +9,5 @@
  - [GetQuotes](GetQuotes.md) (`timeline.get_quotes`)
  - [GetReplies](GetReplies.md) (`timeline.get_replies`)
  - [GetRepostedPeers](GetRepostedPeers.md) (`timeline.get_reposted_peers`)
+ - [Like](Like.md) (`timeline.like`)
  - [RetrieveFeed](RetrieveFeed.md) (`timeline.retrieve_feed`)

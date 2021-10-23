@@ -49,4 +49,5 @@ Incomplete
       * [GetQuotes](timeline/GetQuotes.md) (`timeline.get_quotes`)
       * [GetReplies](timeline/GetReplies.md) (`timeline.get_replies`)
       * [GetRepostedPeers](timeline/GetRepostedPeers.md) (`timeline.get_reposted_peers`)
+      * [Like](timeline/Like.md) (`timeline.like`)
       * [RetrieveFeed](timeline/RetrieveFeed.md) (`timeline.retrieve_feed`)
