@@ -11,4 +11,5 @@
  - [GetRepostedPeers](GetRepostedPeers.md) (`timeline.get_reposted_peers`)
  - [Like](Like.md) (`timeline.like`)
  - [Quote](Quote.md) (`timeline.quote`)
+ - [Reply](Reply.md) (`timeline.reply`)
  - [RetrieveFeed](RetrieveFeed.md) (`timeline.retrieve_feed`)
