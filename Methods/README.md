@@ -52,4 +52,5 @@ Incomplete
       * [Like](timeline/Like.md) (`timeline.like`)
       * [Quote](timeline/Quote.md) (`timeline.quote`)
       * [Reply](timeline/Reply.md) (`timeline.reply`)
+      * [Repost](timeline/Repost.md) (`timeline.repost`)
       * [RetrieveFeed](timeline/RetrieveFeed.md) (`timeline.retrieve_feed`)

@@ -12,4 +12,5 @@
  - [Like](Like.md) (`timeline.like`)
  - [Quote](Quote.md) (`timeline.quote`)
  - [Reply](Reply.md) (`timeline.reply`)
+ - [Repost](Repost.md) (`timeline.repost`)
  - [RetrieveFeed](RetrieveFeed.md) (`timeline.retrieve_feed`)
