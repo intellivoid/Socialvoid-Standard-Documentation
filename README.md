@@ -81,6 +81,7 @@ to communicate to one endpoint.
          * [Reply](Methods/timeline/Reply.md) (`timeline.reply`)
          * [Repost](Methods/timeline/Repost.md) (`timeline.repost`)
          * [RetrieveFeed](Methods/timeline/RetrieveFeed.md) (`timeline.retrieve_feed`)
+         * [Unlike](Methods/timeline/Unlike.md) (`timeline.unlike`)
 
  - [Objects](Objects/README.md)
       * [DisplayPictureSize](Objects/DisplayPictureSize.md)

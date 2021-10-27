@@ -54,3 +54,4 @@ Incomplete
       * [Reply](timeline/Reply.md) (`timeline.reply`)
       * [Repost](timeline/Repost.md) (`timeline.repost`)
       * [RetrieveFeed](timeline/RetrieveFeed.md) (`timeline.retrieve_feed`)
+      * [Unlike](timeline/Unlike.md) (`timeline.unlike`)

@@ -14,3 +14,4 @@
  - [Reply](Reply.md) (`timeline.reply`)
  - [Repost](Repost.md) (`timeline.repost`)
  - [RetrieveFeed](RetrieveFeed.md) (`timeline.retrieve_feed`)
+ - [Unlike](Unlike.md) (`timeline.unlike`)
