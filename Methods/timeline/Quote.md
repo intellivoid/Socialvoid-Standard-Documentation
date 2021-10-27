@@ -1,13 +1,13 @@
-# GetPost
+# Quote
 
-Retrieves an existing post from the timeline
+Composes a new post by quoting an existing post
 
 ## Description
 
 | Property                | Value                           |
 |-------------------------|---------------------------------|
-| Method Name             | GetPost                         |
-| Method                  | `timeline.get_post`             |
+| Method Name             | Quote                           |
+| Method                  | `timeline.quote`                |
 | Response Type(s)        | [`Post`](../../Objects/Post.md) |
 | Version                 | 1.0.0.0                         |
 | Authentication Required | Yes                             |
@@ -20,8 +20,7 @@ A list of parameters that this method accepts
 | Parameter Name         | Type(s)                                                           | Required | Specification  | Deprecated | Versions | Description                                    |
 |------------------------|-------------------------------------------------------------------|----------|----------------|------------|----------|------------------------------------------------|
 | session_identification | [`SessionIdentification`](../../Objects/SessionIdentification.md) | Yes      | Not Applicable | No         | 1.0      | The Session Identification object              |
-| post                   | `string`                                                          | Yes      | Not Applicable | No         | 1.0      | The original post ID to quote                  |
-| text                   | `string`                                                          | Yes      | Not Applicable | No         | 1.0      | The text contents of the post to compose       |
+| text                   | string                                                            | Yes      | Not Applicable | No         | 1.0      | The text contents of the post to compose       |
 | attachments            | `string[]`                                                        | No       | Not Applicable | No         | 1.0      | An array of Document IDs to attach to the post |
 
 ## Possible Errors
@@ -40,6 +39,9 @@ any method.
 | SessionNotFound              | [AuthenticationErrors](../../Errors/AuthenticationErrors.md) |
 | InvalidClientPublicHash      | [AuthenticationErrors](../../Errors/AuthenticationErrors.md) |
 | NotAuthenticated             | [AuthenticationErrors](../../Errors/AuthenticationErrors.md) |
+| InvalidPostText              | [ValidationErrors](../../Errors/ValidationErrors.md)         |
+| DocumentNotFound             | [NetworkErrors](../../Errors/NetworkErrors.md)               |
+| InvalidAttachments           | [ValidationErrors](../../Errors/ValidationErrors.md)         |
 | PostNotFound                 | [NetworkErrors](../../Errors/NetworkErrors.md)               |
 | PostDeleted                  | [NetworkErrors](../../Errors/NetworkErrors.md)               |
 | AccessDenied                 | [NetworkErrors](../../Errors/NetworkErrors.md)               |
