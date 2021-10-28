@@ -34,7 +34,7 @@ or something arbitery like MsgPack RPC. The client and server
 can decide how best to communicate but one thing must remain the
 same is the data being exchanged. Encrypted or not, when the
 client invokes a method such as `timeline.compose` the client
-should expect a `Post` object as the response or a error using
+should expect a `Post` object as the response or an error using
 one of the many pre-defined error codes that is understood by
 both the machine and human. If the server is returning something
 unexpected such as a non-standard object that the client does

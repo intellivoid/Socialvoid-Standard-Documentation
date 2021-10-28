@@ -141,7 +141,7 @@ only one file can be uploaded per request to the CDN server under the
 parameter `document`, below is a an example written in Python for
 uploading a local file from disk to the server.
 
-If you aren't authenticated then a error response will be returned.
+If you aren't authenticated then an error response will be returned.
 
 ```python
 import requests
@@ -187,10 +187,10 @@ Downloading content can be done with a `POST` or `GET` request with the
 
 The parameter `document` must be the Document ID, and must be set. 
 if you aren't authenticated or if you don't have permission to 
-access this document, then a error response will be returned.
+access this document, then an error response will be returned.
 
 If the response code is `200` then the response contents will be the file
-itself, otherwise a error response will be returned in a `application/json`
+itself, otherwise an error response will be returned in a `application/json`
 representation. Below is an example post request to download a file from
 the CDN written in Python
 
