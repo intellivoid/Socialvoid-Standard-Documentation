@@ -29,8 +29,8 @@ errors. the data structure that both a client and server can
 understand when communicating with each other. We can call this
 the "language" that the client and server speaks.
 
-The means of transportation can vary, from JSON-RCP via HTTP/TCP
-or something arbitery like MsgPack RCP. The client and server
+The means of transportation can vary, from JSON-RPC via HTTP/TCP
+or something arbitery like MsgPack RPC. The client and server
 can decide how best to communicate but one thing must remain the
 same is the data being exchanged. Encrypted or not, when the
 client invokes a method such as `timeline.compose` the client

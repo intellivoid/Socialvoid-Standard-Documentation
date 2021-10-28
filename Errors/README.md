@@ -1,8 +1,8 @@
 # Errors
 
 Socialvoid has it's own unique set of error codes aside from the ones
-used by the standard of the RCP server. while your client should handle
-standard error codes of the RCP protcol; if you are building a Socialvoid
+used by the standard of the RPC server. while your client should handle
+standard error codes of the RPC protcol; if you are building a Socialvoid
 client then it's important that your client can handle and represent these
 errors returned by the Socialvoid Server.
 
