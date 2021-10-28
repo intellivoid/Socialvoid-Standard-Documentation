@@ -8,8 +8,8 @@ contribute to.
 
 | Name            | Type           | Language   | Team/Author                                                                                                    | Protocol Version(s) | URL                                            |
 |-----------------|----------------|------------|----------------------------------------------------------------------------------------------------------------|---------------------|------------------------------------------------|
-| Socialvoid-Next | Client Library | TypeScript | [Socialvoid Javascript Developers](https://github.com/orgs/intellivoid/teams/socialvoid-javascript-developers) | 1.0                 | https://github.com/intellivoid/Socialvoid-Next |
-| SocialvoidJS    | Client Library | TypeScript | [Socialvoid Javascript Developers](https://github.com/orgs/intellivoid/teams/socialvoid-javascript-developers) | 1.0                 | https://github.com/intellivoid/SocialvoidJS    |
+| Socialvoid-Next | Client Library | TypeScript | [Socialvoid JavaScript Developers](https://github.com/orgs/intellivoid/teams/socialvoid-javascript-developers) | 1.0                 | https://github.com/intellivoid/Socialvoid-Next |
+| SocialvoidJS    | Client Library | TypeScript | [Socialvoid JavaScript Developers](https://github.com/orgs/intellivoid/teams/socialvoid-javascript-developers) | 1.0                 | https://github.com/intellivoid/SocialvoidJS    |
 | Socialvoidpy    | Client Library | Python     | [Socialvoid Python Developers](https://github.com/orgs/intellivoid/teams/socialvoid-python-developers)         | 1.0                 | https://github.com/intellivoid/SocialvoidPy    |
 | Socialvoid-Dart | Client Library | Dart       | [Socialvoid Dart Developers](https://github.com/orgs/intellivoid/teams/socialvoid-dart-developers)             | 1.0                 | https://github.com/intellivoid/Socialvoid-Dart |
 | socialvoid-rs   | Client Library | Rust       | [Socialvoid Rust Developers](https://github.com/orgs/intellivoid/teams/socialvoid-rust-developers)             | 1.0                 | https://github.com/intellivoid/socialvoid-rs   |
