@@ -1,6 +1,6 @@
 # Repost
 
-Composes a reply post to an existing post
+Composes a repost of an existing post
 
 ## Description
 
