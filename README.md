@@ -107,6 +107,9 @@ to communicate to one endpoint.
       * [SessionChallengeSpecification](Specifications/SessionChallengeSpecification.md)
       * [SessionIdSpecification](Specifications/SessionIdSpecification.md)
 
+ - [Flags](Flags/README.md)
+      * [PostFlags](Flags/PostFlags.md)
+
  - [Types](Types/README.md)
       * [FileTypes](Types/FileTypes.md)
       * [PeerTypes](Types/PeerTypes.md)
