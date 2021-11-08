@@ -108,7 +108,9 @@ to communicate to one endpoint.
       * [SessionIdSpecification](Specifications/SessionIdSpecification.md)
 
  - [Flags](Flags/README.md)
+      * [PermissionSets](Flags/PermissionSets.md)
       * [PostFlags](Flags/PostFlags.md)
+      * [UserFlags](Flags/UserFlags.md)
 
  - [Types](Types/README.md)
       * [FileTypes](Types/FileTypes.md)

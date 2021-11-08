@@ -17,4 +17,6 @@ and understood by clients.
 
 ## Contents
 
+ - [PermissionSets](PermissionSets.md)
  - [PostFlags](PostFlags.md)
+ - [UserFlags](UserFlags.md)
