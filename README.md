@@ -91,6 +91,7 @@ to communicate to one endpoint.
       * [Peer](Objects/Peer.md)
       * [Post](Objects/Post.md)
       * [Profile](Objects/Profile.md)
+      * [ProtocolDefinitons](Objects/ProtocolDefinitions.md)
       * [ServerInformation](Objects/ServerInformation.md)
       * [SessionEstablished](Objects/SessionEstablished.md)
       * [Session](Objects/Session.md)
