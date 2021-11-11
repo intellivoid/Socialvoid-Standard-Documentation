@@ -12,6 +12,7 @@ Allowing for simplicity in mind when writing clients for Socialvoid
  - [Peer](Peer.md)
  - [Post](Post.md)
  - [Profile](Profile.md)
+ - [ProtocolDefinitons](ProtocolDefinitions.md)
  - [ServerInformation](ServerInformation.md)
  - [SessionEstablished](SessionEstablished.md)
  - [Session](Session.md)
