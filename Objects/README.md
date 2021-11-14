@@ -10,6 +10,7 @@ Allowing for simplicity in mind when writing clients for Socialvoid
  - [Document](Document.md)
  - [ErrorDefinition](ErrorDefinition.md)
  - [HelpDocument](HelpDocument.md)
+ - [ObjectDefinition](ObjectDefinition.md)
  - [ParameterDefinition](ParameterDefinition.md)
  - [Peer](Peer.md)
  - [Post](Post.md)
