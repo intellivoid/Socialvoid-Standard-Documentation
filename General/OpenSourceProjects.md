@@ -8,7 +8,7 @@ contribute to.
 
 | Name            | Type           | Language   | Team/Author                                                                                                    | Protocol Version(s) | URL                                            |
 |-----------------|----------------|------------|----------------------------------------------------------------------------------------------------------------|---------------------|------------------------------------------------|
-| Socialvoid-Next | Client | TypeScript | [Socialvoid JavaScript Developers](https://github.com/orgs/intellivoid/teams/socialvoid-javascript-developers) | 1.0                 | https://github.com/intellivoid/Socialvoid-Next |
+| Socialvoid-React | Client | TypeScript | [Socialvoid JavaScript Developers](https://github.com/orgs/intellivoid/teams/socialvoid-javascript-developers) | 1.0                 | https://github.com/intellivoid/Socialvoid-React |
 | SocialvoidJS    | Client Library | TypeScript | [Socialvoid JavaScript Developers](https://github.com/orgs/intellivoid/teams/socialvoid-javascript-developers) | 1.0                 | https://github.com/intellivoid/SocialvoidJS    |
 | SocialvoidPy    | Client Library | Python     | [Socialvoid Python Developers](https://github.com/orgs/intellivoid/teams/socialvoid-python-developers)         | 1.0                 | https://github.com/intellivoid/SocialvoidPy    |
 | Socialvoid-Dart | Client Library | Dart       | [Socialvoid Dart Developers](https://github.com/orgs/intellivoid/teams/socialvoid-dart-developers)             | 1.0                 | https://github.com/intellivoid/Socialvoid-Dart |
