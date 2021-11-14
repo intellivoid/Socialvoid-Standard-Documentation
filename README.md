@@ -115,6 +115,7 @@ to communicate to one endpoint.
       * [UserFlags](Flags/UserFlags.md)
 
  - [Types](Types/README.md)
+      * [BuiltinTypes](Types/BuiltinTypes.md)
       * [FileTypes](Types/FileTypes.md)
       * [PeerTypes](Types/PeerTypes.md)
       * [PostTypes](Types/PostTypes.md)

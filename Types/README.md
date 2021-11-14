@@ -8,6 +8,7 @@ functions.
 
 ## Contents
 
+ - [BuiltinTypes](BuiltinTypes.md)
  - [FileTypes](FileTypes.md)
  - [PeerTypes](PeerTypes.md)
  - [PostTypes](PostTypes.md)
