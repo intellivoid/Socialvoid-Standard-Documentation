@@ -47,13 +47,15 @@ either identify errors individually by their error code or by range.
 | Section               | Set | Range         | Description                                                                                                                                                                                                |
 |-----------------------|-----|---------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Validation Errors     | 21  | 8448 - 8703   | Errors that returns when the given parameters or data is invalid in some way or another                                                                                                                    |
-| Authentication Errors | 22  | 8704 - 8979   | Errors related to authentication/session management, these errors are usually returned when there was an error while trying to authenticate or there are session errors such as the session being expired. |
+| Authentication Errors | 22  | 8704 - 12543  | Errors related to authentication/session management, these errors are usually returned when there was an error while trying to authenticate or there are session errors such as the session being expired. |
 | Network Errors        | 31  | 12544 - 16383 | Errors related to actions on the network, peers not being found, posts not being found, incorrect permissions, rate limits, etc.                                                                           |
-| Server Error          | 40  | 16384 - *(?)  | Errors related to the server, unexpected errors, servers related to administrators/moderators performing administrative tasks on the server                                                                |
+| Server Errors         | 40  | 16384 - 24575 | Errors related to the server, unexpected errors, servers related to administrators/moderators performing administrative tasks on the server                                                                |
+| Security Errors       | 60  | 24576 - *(?)  | Errors relating to security issues or tasks                                                                                                                                                                |
 
 ## Error Codes
 
  - [Validation Errors](ValidationErrors.md) 8448 - 8703
  - [Authentication Errors](AuthenticationErrors.md) 8704 - 8979
  - [Network Errors](NetworkErrors.md) 12544 - 16383
- - [Server Errors](ServerErrors.md) 16384 - *(?)
+ - [Server Errors](ServerErrors.md) 16384 - 24575
+ - [Security Errors](SecurityErrors.md) 24576 - *(?)

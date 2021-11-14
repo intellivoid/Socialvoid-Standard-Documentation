@@ -35,7 +35,8 @@ to communicate to one endpoint.
       * [Validation Errors](Errors/ValidationErrors.md) 8448 - 8703
       * [Authentication Errors](Errors/AuthenticationErrors.md) 8704 - 8979
       * [Network Errors](Errors/NetworkErrors.md) 12544 - 16383
-      * [Server Errors](Errors/ServerErrors.md) 16384 - *(?)
+      * [Server Errors](Errors/ServerErrors.md) 16384 - 24575
+      * [Security Errors](Errors/SecurityErrors.md) 24576 - *(?)
 
  - [Methods](Methods/README.md)
       * [Account](Methods/account/README.md)

@@ -29,3 +29,4 @@ that is invalid in some way or another.
 | TooManyAttachments           | 8469 | 0x02115  | No         | 1.0      | Raised when the amount of attachments exceeds what the server supports                                                  |
 | InvalidAttachments           | 8470 | 0x02116  | No         | 1.0      | Raised when the given attachments are invalid                                                                           |
 | InvalidFileName              | 8471 | 0x02117  | No         | 1.0      | Raised when the given filename is invalid                                                                               |
+| InvalidCaptchaId             | 8472 | 0x02118  | No         | 1.0      | Raised when the given Captcha ID is invalid                                                                             |
