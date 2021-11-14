@@ -6,6 +6,31 @@ Permission sets flags are a way to tell the client what
 permissions it currently has with the network, methods will
 specify what permissions are required to execute the method.
 
+## Permission Levels
+
+It's easy to identify these permissions by levels, permissions
+like `USER`, `PROXY` & `BOT` are generally required to be authenticated,
+it doesn't mean that `BOT` and `PROXY` can use all the methods
+that `USER` has access to, but anything higher such as `ADMINISTRATOR_BOT`
+can access all methods that `USER`, `PROXY` and `BOT` can or even
+more. Methods will specify the permission requirements for example a
+method may be accesiable to `USER` and `BOT` which means `PROXY` peers
+cannot use the method but anything higher such as `ADMINISTRATOR` can
+access the method even if not specified.
+
+The same way `MODERATOR` has greater permissions than `USER` but does
+not have access to the same methods as `ADMINISTRATOR` but `ADMINISTRATOR`
+may have access to `MODERATOR` methods.
+
+Permissions can also affect the rate limit for methods and requests, for
+example proxy peers will have a less restrictive rate limit for composing
+posts than a user does since a proxy peer's purpose is to mirror content
+from other sources while a user peer is not expected to post as frequent
+as a proxy or bot peer.
+
+![Permission Levels](../Assets/PermissionLevels.png)
+
+
 | Flag                   | Description                                                                                                                                                                                                                                                                                                                                                                                                                                           |
 |------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | `GUEST`                | Guest permissions allows the execution of methods without requiring authentication. Read-only mode                                                                                                                                                                                                                                                                                                                                                    |
