@@ -19,3 +19,4 @@ Allowing for simplicity in mind when writing clients for Socialvoid
  - [Session](Session.md)
  - [SessionIdentification](SessionIdentification.md)
  - [TextEntity](TextEntity.md)
+ - [TypeDefinition](TypeDefinition.md)

@@ -98,6 +98,7 @@ to communicate to one endpoint.
       * [Session](Objects/Session.md)
       * [SessionIdentification](Objects/SessionIdentification.md)
       * [TextEntity](Objects/TextEntity.md)
+      * [TypeDefinition](Objects/TypeDefinition.md)
 
  - [Specifications](Specifications/README.md)
       * [CdnServer](Specifications/CdnServer.md)
