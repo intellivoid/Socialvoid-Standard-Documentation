@@ -87,6 +87,7 @@ to communicate to one endpoint.
  - [Objects](Objects/README.md)
       * [DisplayPictureSize](Objects/DisplayPictureSize.md)
       * [Document](Objects/Document.md)
+      * [ErrorDefinition](Objects/ErrorDefinition.md)
       * [HelpDocument](Objects/HelpDocument.md)
       * [Peer](Objects/Peer.md)
       * [Post](Objects/Post.md)

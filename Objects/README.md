@@ -8,6 +8,7 @@ Allowing for simplicity in mind when writing clients for Socialvoid
 
  - [DisplayPIctureSize](DisplayPictureSize.md)
  - [Document](Document.md)
+ - [ErrorDefinition](ErrorDefinition.md)
  - [HelpDocument](HelpDocument.md)
  - [Peer](Peer.md)
  - [Post](Post.md)
