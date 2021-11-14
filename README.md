@@ -89,6 +89,7 @@ to communicate to one endpoint.
       * [Document](Objects/Document.md)
       * [ErrorDefinition](Objects/ErrorDefinition.md)
       * [HelpDocument](Objects/HelpDocument.md)
+      * [ParameterDefinition](Objects/ParameterDefinition.md)
       * [Peer](Objects/Peer.md)
       * [Post](Objects/Post.md)
       * [Profile](Objects/Profile.md)
