@@ -90,6 +90,7 @@ to communicate to one endpoint.
       * [Document](Objects/Document.md)
       * [ErrorDefinition](Objects/ErrorDefinition.md)
       * [HelpDocument](Objects/HelpDocument.md)
+      * [MethodDefinition](Objects/MethodDefinition.md)
       * [ObjectDefinition](Objects/ObjectDefinition.md)
       * [ParameterDefinition](Objects/ParameterDefinition.md)
       * [Peer](Objects/Peer.md)
