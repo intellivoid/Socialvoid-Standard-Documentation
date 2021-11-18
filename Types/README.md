@@ -9,6 +9,7 @@ functions.
 ## Contents
 
  - [BuiltinTypes](BuiltinTypes.md)
+ - [CaptchaTypes](CaptchaTypes.md)
  - [FileTypes](FileTypes.md)
  - [PeerTypes](PeerTypes.md)
  - [PostTypes](PostTypes.md)

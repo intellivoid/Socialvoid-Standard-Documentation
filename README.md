@@ -121,6 +121,7 @@ to communicate to one endpoint.
 
  - [Types](Types/README.md)
       * [BuiltinTypes](Types/BuiltinTypes.md)
+      * [CaptchaTypes](Types/CaptchaTypes.md)
       * [FileTypes](Types/FileTypes.md)
       * [PeerTypes](Types/PeerTypes.md)
       * [PostTypes](Types/PostTypes.md)
