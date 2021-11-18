@@ -6,7 +6,8 @@ Allowing for simplicity in mind when writing clients for Socialvoid
 
 ## Contents
 
- - [DisplayPIctureSize](DisplayPictureSize.md)
+ - [Captcha](Captcha.md)
+ - [DisplayPictureSize](DisplayPictureSize.md)
  - [Document](Document.md)
  - [ErrorDefinition](ErrorDefinition.md)
  - [HelpDocument](HelpDocument.md)

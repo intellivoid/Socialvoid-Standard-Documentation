@@ -86,6 +86,7 @@ to communicate to one endpoint.
          * [Unlike](Methods/timeline/Unlike.md) (`timeline.unlike`)
 
  - [Objects](Objects/README.md)
+      * [Captcha](Objects/Captcha.md)
       * [DisplayPictureSize](Objects/DisplayPictureSize.md)
       * [Document](Objects/Document.md)
       * [ErrorDefinition](Objects/ErrorDefinition.md)
