@@ -10,6 +10,7 @@ functions.
 
  - [BuiltinTypes](BuiltinTypes.md)
  - [CaptchaTypes](CaptchaTypes.md)
+ - [CaptchaStates](CaptchaStates.md)
  - [FileTypes](FileTypes.md)
  - [PeerTypes](PeerTypes.md)
  - [PostTypes](PostTypes.md)
