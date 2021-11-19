@@ -20,6 +20,8 @@ Incomplete
       * [UpdateProfileLocation](account/UpdateProfileLocation.md) (`account.update_profile_location`)
       * [UpdateProfileName](account/UpdateProfileName.md) (`account.update_profile_name`)
       * [UpdateProfileUrl](account/UpdateProfileUrl.md) (`account.update_profile_url`)
+ - [Captcha](captcha/README.md)
+      * [CreateCaptcha](captcha/CreateCaptcha.md)
  - [Cloud](cloud/README.md)
       * [GetDocument](cloud/GetDocument.md) (`cloud.get_document`)
  - [Session](session/README.md)

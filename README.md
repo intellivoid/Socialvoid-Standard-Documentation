@@ -49,6 +49,8 @@ to communicate to one endpoint.
          * [UpdateProfileLocation](Methods/account/UpdateProfileLocation.md) (`account.update_profile_location`)
          * [UpdateProfileName](Methods/account/UpdateProfileName.md) (`account.update_profile_name`)
          * [UpdateProfileUrl](Methods/account/UpdateProfileUrl.md) (`account.update_profile_url`)
+      * [Captcha](Methods/captcha/README.md)
+         * [CreateCaptcha](Methods/captcha/CreateCaptcha.md)
       * [Cloud](Methods/cloud/README.md)
          * [GetDocument](Methods/cloud/GetDocument.md) (`cloud.get_document`)
       * [Session](Methods/session/README.md)

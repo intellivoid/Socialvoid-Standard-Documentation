@@ -2,4 +2,4 @@
 
 ## Contents
 
- - [AnswerCaptcha](AnsnwerCaptcha.md) (`captcha.answer`)
+ - [CreateCaptcha](CreateCaptcha.md) (`captcha.create`)
