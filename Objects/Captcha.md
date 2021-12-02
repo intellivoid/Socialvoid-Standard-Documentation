@@ -30,7 +30,7 @@ without any need of processing.
 
 Image value types are represented as data URI schemes
 with the following syntax, this information has been taken from
-[Wikipedia](https://en.wikipedia.org/wiki/Data_URI_scheme)
+[Wikipedia](https://en.wikipedia.org/wiki/Data_URI_scheme).
 
 ```
 data:[<media type>][;base64],<data>
