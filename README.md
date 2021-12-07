@@ -50,6 +50,7 @@ to communicate to one endpoint.
          * [UpdateProfileName](Methods/account/UpdateProfileName.md) (`account.update_profile_name`)
          * [UpdateProfileUrl](Methods/account/UpdateProfileUrl.md) (`account.update_profile_url`)
       * [Captcha](Methods/captcha/README.md)
+         * [AnswerCaptcha](Methods/captcha/AnswerCaptcha.md) (`captcha.answer`)
          * [CreateCaptcha](Methods/captcha/CreateCaptcha.md) (`captcha.create`)
          * [GetCaptcha](Methods/captcha/GetCaptcha.md) (`captcha.get`)
       * [Cloud](Methods/cloud/README.md)

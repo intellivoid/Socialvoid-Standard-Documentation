@@ -21,6 +21,7 @@ Incomplete
       * [UpdateProfileName](account/UpdateProfileName.md) (`account.update_profile_name`)
       * [UpdateProfileUrl](account/UpdateProfileUrl.md) (`account.update_profile_url`)
  - [Captcha](captcha/README.md)
+      * [AnswerCaptcha](captcha/AnswerCaptcha.md) (`captcha.answer`)
       * [CreateCaptcha](captcha/CreateCaptcha.md) (`captcha.create`)
       * [GetCaptcha](captcha/GetCaptcha.md) (`captcha.get`)
  - [Cloud](cloud/README.md)
