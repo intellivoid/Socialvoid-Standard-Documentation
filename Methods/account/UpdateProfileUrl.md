@@ -8,7 +8,7 @@ Updates the users profile URL
 |-------------------------|------------------------------|
 | Method Name             | UpdateProfileUrl             |
 | Method                  | `account.update_profile_url` |
-| Response Type(s)        | `bool`                       |
+| Response Type(s)        | `boolean`                    |
 | Version                 | 1.0.0.0                      |
 | Permission Requirements | `USER`, `PROXY`, `BOT`       |
 
