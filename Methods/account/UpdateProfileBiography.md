@@ -6,13 +6,12 @@ Updates the users profile biography
 
 A description of the method and it's properties
 
-| Property                | Value                              |
-|-------------------------|------------------------------------|
-| Method Name             | UpdateProfileBiography             |
-| Method                  | `account.update_profile_biography` |
-| Response Type(s)        | `boolean`                          |
-| Version                 | 1.0.0.0                            |
-| Permission Requirements | `USER`, `PROXY`, `BOT`             |
+| Property                | Value                             |
+|-------------------------|-----------------------------------|
+| Method Name             | UpdateProfileLocation             |
+| Method                  | `account.update_profile_location` |
+| Response Type(s)        | `boolean`                         |
+| Permission Requirements | `USER`, `PROXY`, `BOT`            |
 
 ## Parameters
 

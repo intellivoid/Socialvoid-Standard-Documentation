@@ -9,7 +9,6 @@ Sets a new First and or Last name to the profile
 | Method Name             | UpdateProfileName             |
 | Method                  | `account.update_profile_name` |
 | Response Type(s)        | `boolean`                     |
-| Version                 | 1.0.0.0                       |
 | Permission Requirements | `USER`, `PROXY`, `BOT`        |
 
 ## Parameters

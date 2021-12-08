@@ -11,7 +11,6 @@ A description of the method and it's properties
 | Method Name             | UpdateProfileLocation             |
 | Method                  | `account.update_profile_location` |
 | Response Type(s)        | `boolean`                         |
-| Version                 | 1.0.0.0                           |
 | Permission Requirements | `USER`, `PROXY`, `BOT`            |
 
 ## Parameters
