@@ -9,7 +9,7 @@ or creating the building blocks of the Socialvoid foundation.
  - [Node](https://github.com/QLG1)
  - [blank X](https://github.com/the-blank-x)
  - [Yusuf Usta](https://github.com/yusufusta)
- - [Roj](https://github.com/rojserbest)
+ - [Roj](https://github.com/roj1512)
  - [Bounty](https://github.com/Bounty780)
  - [Sayan Biswas](https://github.com/Dank-del)
  - [ALi.w](https://github.com/ALiwoto)
